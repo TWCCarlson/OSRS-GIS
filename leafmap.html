@@ -78,7 +78,7 @@
         map.setMaxBounds(bounds)
 
         // Place tiles
-        var tiles = L.tileLayer('own_dzsave/{z}/0/{y}/{x}.png', {
+        var tiles = L.tileLayer('https://raw.githubusercontent.com/TWCCarlson/OSRS-GIS-maptiles/master/0/{z}/0/{y}/{x}.png', {
             minZoom: 1,
             maxZoom: 11,
         }).addTo(map);
@@ -132,7 +132,6 @@
 
         // L.rectangle([yx(imageSE), yx(imageNW)], {color: "#ff7800", weight: 1}).addTo(map);
 
-        // TODO: clean up repo
         // TODO: clean up the tile generator
         // TODO: labels
         // TODO: floating coordinate display
