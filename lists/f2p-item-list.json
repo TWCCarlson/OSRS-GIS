@@ -1,0 +1,1794 @@
+[
+    {
+        "itemName": "Crossbow",
+        "itemPageId": 9524,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Crossbow",
+        "X": "3174",
+        "Y": "3663"
+    },
+    {
+        "itemName": "Crossbow",
+        "itemPageId": 9524,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Crossbow",
+        "X": "3284",
+        "Y": "3719"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "2987",
+        "Y": "9583"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3221",
+        "Y": "9934"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "2031",
+        "Y": "8987"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "2859",
+        "Y": "9636"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3354",
+        "Y": "3233"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3378",
+        "Y": "3151"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3089",
+        "Y": "9898"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3191",
+        "Y": "9826"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3230",
+        "Y": "3502"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3220",
+        "Y": "9883"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3092",
+        "Y": "3852"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3102",
+        "Y": "3556"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "3234",
+        "Y": "3556"
+    },
+    {
+        "itemName": "Coins",
+        "itemPageId": 9854,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Coins",
+        "X": "2984",
+        "Y": "3675"
+    },
+    {
+        "itemName": "Bronze med helm",
+        "itemPageId": 9893,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze med helm",
+        "X": "3122",
+        "Y": "3360"
+    },
+    {
+        "itemName": "Bronze med helm",
+        "itemPageId": 9893,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze med helm",
+        "X": "3077",
+        "Y": "9778"
+    },
+    {
+        "itemName": "Iron bar",
+        "itemPageId": 9895,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron bar",
+        "X": "3111",
+        "Y": "3657"
+    },
+    {
+        "itemName": "Iron dagger",
+        "itemPageId": 9899,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron dagger",
+        "X": "3248",
+        "Y": "3245"
+    },
+    {
+        "itemName": "Iron dagger",
+        "itemPageId": 9899,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron dagger",
+        "X": "3242",
+        "Y": "3383"
+    },
+    {
+        "itemName": "Iron dagger",
+        "itemPageId": 9899,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron dagger",
+        "X": "3156",
+        "Y": "3683"
+    },
+    {
+        "itemName": "Iron scimitar",
+        "itemPageId": 9900,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron scimitar",
+        "X": "3214",
+        "Y": "3730"
+    },
+    {
+        "itemName": "Iron kiteshield",
+        "itemPageId": 9907,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron kiteshield",
+        "X": "3247",
+        "Y": "3795"
+    },
+    {
+        "itemName": "Steel sword",
+        "itemPageId": 9925,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Steel sword",
+        "X": "3283",
+        "Y": "3658"
+    },
+    {
+        "itemName": "Steel platelegs",
+        "itemPageId": 9953,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Steel platelegs",
+        "X": "3184",
+        "Y": "3733"
+    },
+    {
+        "itemName": "Bronze bolts",
+        "itemPageId": 9988,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze bolts",
+        "X": "3022",
+        "Y": "3251"
+    },
+    {
+        "itemName": "Bronze bolts",
+        "itemPageId": 9988,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze bolts",
+        "X": "3106",
+        "Y": "3690"
+    },
+    {
+        "itemName": "Iron axe",
+        "itemPageId": 10003,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron axe",
+        "X": "3162",
+        "Y": "9888"
+    },
+    {
+        "itemName": "Logs",
+        "itemPageId": 10005,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Logs",
+        "X": "3411",
+        "Y": "3183"
+    },
+    {
+        "itemName": "Logs",
+        "itemPageId": 10005,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Logs",
+        "X": "3089",
+        "Y": "3265"
+    },
+    {
+        "itemName": "Logs",
+        "itemPageId": 10005,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Logs",
+        "X": "3207",
+        "Y": "3225"
+    },
+    {
+        "itemName": "Logs",
+        "itemPageId": 10005,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Logs",
+        "X": "2958",
+        "Y": "3205"
+    },
+    {
+        "itemName": "Logs",
+        "itemPageId": 10005,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Logs",
+        "X": "3100",
+        "Y": "3095"
+    },
+    {
+        "itemName": "Logs",
+        "itemPageId": 10005,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Logs",
+        "X": "3244",
+        "Y": "3398"
+    },
+    {
+        "itemName": "Logs",
+        "itemPageId": 10005,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Logs",
+        "X": "3105",
+        "Y": "3159"
+    },
+    {
+        "itemName": "Knife",
+        "itemPageId": 10007,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Knife",
+        "X": "3224",
+        "Y": "3202"
+    },
+    {
+        "itemName": "Knife",
+        "itemPageId": 10007,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Knife",
+        "X": "3215",
+        "Y": "9625"
+    },
+    {
+        "itemName": "Knife",
+        "itemPageId": 10007,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Knife",
+        "X": "3205",
+        "Y": "3212"
+    },
+    {
+        "itemName": "Knife",
+        "itemPageId": 10007,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Knife",
+        "X": "2903",
+        "Y": "3148"
+    },
+    {
+        "itemName": "Knife",
+        "itemPageId": 10007,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Knife",
+        "X": "2934",
+        "Y": "5773"
+    },
+    {
+        "itemName": "Knife",
+        "itemPageId": 10007,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Knife",
+        "X": "3218",
+        "Y": "3418"
+    },
+    {
+        "itemName": "Knife",
+        "itemPageId": 10007,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Knife",
+        "X": "3218",
+        "Y": "9887"
+    },
+    {
+        "itemName": "Knife",
+        "itemPageId": 10007,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Knife",
+        "X": "3078",
+        "Y": "3853"
+    },
+    {
+        "itemName": "Hammer",
+        "itemPageId": 10068,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Hammer",
+        "X": "2934",
+        "Y": "3286"
+    },
+    {
+        "itemName": "Hammer",
+        "itemPageId": 10068,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Hammer",
+        "X": "3350",
+        "Y": "3162"
+    },
+    {
+        "itemName": "Hammer",
+        "itemPageId": 10068,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Hammer",
+        "X": "2579",
+        "Y": "3463"
+    },
+    {
+        "itemName": "Hammer",
+        "itemPageId": 10068,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Hammer",
+        "X": "2975",
+        "Y": "3368"
+    },
+    {
+        "itemName": "Hammer",
+        "itemPageId": 10068,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Hammer",
+        "X": "2961",
+        "Y": "5802"
+    },
+    {
+        "itemName": "Air rune",
+        "itemPageId": 10091,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Air rune",
+        "X": "3150",
+        "Y": "3247"
+    },
+    {
+        "itemName": "Air rune",
+        "itemPageId": 10091,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Air rune",
+        "X": "2938",
+        "Y": "3158"
+    },
+    {
+        "itemName": "Air rune",
+        "itemPageId": 10091,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Air rune",
+        "X": "3030",
+        "Y": "3637"
+    },
+    {
+        "itemName": "Bread",
+        "itemPageId": 10097,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bread",
+        "X": "2030",
+        "Y": "8990"
+    },
+    {
+        "itemName": "Tinderbox",
+        "itemPageId": 10102,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tinderbox",
+        "X": "2431",
+        "Y": "3072"
+    },
+    {
+        "itemName": "Tinderbox",
+        "itemPageId": 10102,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tinderbox",
+        "X": "2423",
+        "Y": "3080"
+    },
+    {
+        "itemName": "Tinderbox",
+        "itemPageId": 10102,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tinderbox",
+        "X": "2368",
+        "Y": "3135"
+    },
+    {
+        "itemName": "Tinderbox",
+        "itemPageId": 10102,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tinderbox",
+        "X": "2376",
+        "Y": "3127"
+    },
+    {
+        "itemName": "Tinderbox",
+        "itemPageId": 10102,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tinderbox",
+        "X": "3362",
+        "Y": "3167"
+    },
+    {
+        "itemName": "Tinderbox",
+        "itemPageId": 10102,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tinderbox",
+        "X": "3112",
+        "Y": "3369"
+    },
+    {
+        "itemName": "Rope",
+        "itemPageId": 10149,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Rope",
+        "X": "3223",
+        "Y": "9933"
+    },
+    {
+        "itemName": "Rope",
+        "itemPageId": 10149,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Rope",
+        "X": "2018",
+        "Y": "8988"
+    },
+    {
+        "itemName": "Rope",
+        "itemPageId": 10149,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Rope",
+        "X": "2904",
+        "Y": "3152"
+    },
+    {
+        "itemName": "Amulet mould",
+        "itemPageId": 10180,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Amulet mould",
+        "X": "2928",
+        "Y": "3290"
+    },
+    {
+        "itemName": "Bronze arrow",
+        "itemPageId": 10299,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze arrow",
+        "X": "3132",
+        "Y": "9909"
+    },
+    {
+        "itemName": "Bronze arrow",
+        "itemPageId": 10299,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze arrow",
+        "X": "2944",
+        "Y": "3332"
+    },
+    {
+        "itemName": "Bronze arrow",
+        "itemPageId": 10299,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze arrow",
+        "X": "3205",
+        "Y": "3227"
+    },
+    {
+        "itemName": "Bronze arrow",
+        "itemPageId": 10299,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze arrow",
+        "X": "2957",
+        "Y": "3205"
+    },
+    {
+        "itemName": "Bronze axe",
+        "itemPageId": 10301,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze axe",
+        "X": "3368",
+        "Y": "3238"
+    },
+    {
+        "itemName": "Bronze axe",
+        "itemPageId": 10301,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze axe",
+        "X": "2970",
+        "Y": "3376"
+    },
+    {
+        "itemName": "Bronze axe",
+        "itemPageId": 10301,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze axe",
+        "X": "3185",
+        "Y": "3277"
+    },
+    {
+        "itemName": "Bronze axe",
+        "itemPageId": 10301,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze axe",
+        "X": "3232",
+        "Y": "3296"
+    },
+    {
+        "itemName": "Bronze chainbody",
+        "itemPageId": 10304,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze chainbody",
+        "X": "2985",
+        "Y": "9817"
+    },
+    {
+        "itemName": "Bronze dagger",
+        "itemPageId": 10307,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze dagger",
+        "X": "3140",
+        "Y": "3622"
+    },
+    {
+        "itemName": "Bronze dagger",
+        "itemPageId": 10307,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze dagger",
+        "X": "3213",
+        "Y": "3216"
+    },
+    {
+        "itemName": "Iron full helm",
+        "itemPageId": 10319,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron full helm",
+        "X": "3069",
+        "Y": "3831"
+    },
+    {
+        "itemName": "Iron mace",
+        "itemPageId": 10327,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron mace",
+        "X": "3111",
+        "Y": "3517"
+    },
+    {
+        "itemName": "Bronze mace",
+        "itemPageId": 10332,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze mace",
+        "X": "3320",
+        "Y": "3137"
+    },
+    {
+        "itemName": "Bronze pickaxe",
+        "itemPageId": 10334,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze pickaxe",
+        "X": "3081",
+        "Y": "3429"
+    },
+    {
+        "itemName": "Bronze pickaxe",
+        "itemPageId": 10334,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze pickaxe",
+        "X": "3362",
+        "Y": "3166"
+    },
+    {
+        "itemName": "Bronze pickaxe",
+        "itemPageId": 10334,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze pickaxe",
+        "X": "3229",
+        "Y": "3219"
+    },
+    {
+        "itemName": "Bronze pickaxe",
+        "itemPageId": 10334,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze pickaxe",
+        "X": "3009",
+        "Y": "3342"
+    },
+    {
+        "itemName": "Bronze pickaxe",
+        "itemPageId": 10334,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze pickaxe",
+        "X": "2963",
+        "Y": "3216"
+    },
+    {
+        "itemName": "Bronze scimitar",
+        "itemPageId": 10350,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze scimitar",
+        "X": "2557",
+        "Y": "2855"
+    },
+    {
+        "itemName": "Bronze scimitar",
+        "itemPageId": 10350,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze scimitar",
+        "X": "3362",
+        "Y": "3154"
+    },
+    {
+        "itemName": "Bronze scimitar",
+        "itemPageId": 10350,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bronze scimitar",
+        "X": "2965",
+        "Y": "3211"
+    },
+    {
+        "itemName": "Steel dagger",
+        "itemPageId": 10406,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Steel dagger",
+        "X": "3158",
+        "Y": "3672"
+    },
+    {
+        "itemName": "Steel dagger",
+        "itemPageId": 10406,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Steel dagger",
+        "X": "3302",
+        "Y": "3765"
+    },
+    {
+        "itemName": "Steel platebody",
+        "itemPageId": 10411,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Steel platebody",
+        "X": "3085",
+        "Y": "3859"
+    },
+    {
+        "itemName": "Brass necklace",
+        "itemPageId": 10483,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Brass necklace",
+        "X": "3122",
+        "Y": "9881"
+    },
+    {
+        "itemName": "Brass necklace",
+        "itemPageId": 10483,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Brass necklace",
+        "X": "3191",
+        "Y": "9820"
+    },
+    {
+        "itemName": "Gold necklace",
+        "itemPageId": 10671,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold necklace",
+        "X": "3065",
+        "Y": "3864"
+    },
+    {
+        "itemName": "Gold necklace",
+        "itemPageId": 10671,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold necklace",
+        "X": "3192",
+        "Y": "9821"
+    },
+    {
+        "itemName": "Gold necklace",
+        "itemPageId": 10671,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold necklace",
+        "X": "2068",
+        "Y": "8986"
+    },
+    {
+        "itemName": "Gold ring",
+        "itemPageId": 10672,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold ring",
+        "X": "2056",
+        "Y": "9004"
+    },
+    {
+        "itemName": "Leather body",
+        "itemPageId": 10834,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather body",
+        "X": "3247",
+        "Y": "3407"
+    },
+    {
+        "itemName": "Leather boots",
+        "itemPageId": 10837,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather boots",
+        "X": "3302",
+        "Y": "3190"
+    },
+    {
+        "itemName": "Leather boots",
+        "itemPageId": 10837,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather boots",
+        "X": "3209",
+        "Y": "9617"
+    },
+    {
+        "itemName": "Leather boots",
+        "itemPageId": 10837,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather boots",
+        "X": "3244",
+        "Y": "3386"
+    },
+    {
+        "itemName": "Leather boots",
+        "itemPageId": 10837,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather boots",
+        "X": "3111",
+        "Y": "3159"
+    },
+    {
+        "itemName": "Leather boots",
+        "itemPageId": 10837,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather boots",
+        "X": "3112",
+        "Y": "3155"
+    },
+    {
+        "itemName": "Phoenix crossbow",
+        "itemPageId": 10975,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Phoenix crossbow",
+        "X": "3244",
+        "Y": "3384"
+    },
+    {
+        "itemName": "Ruby ring",
+        "itemPageId": 11024,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Ruby ring",
+        "X": "3196",
+        "Y": "9822"
+    },
+    {
+        "itemName": "Staff of earth",
+        "itemPageId": 11103,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Staff of earth",
+        "X": "3100",
+        "Y": "3862"
+    },
+    {
+        "itemName": "Wooden shield",
+        "itemPageId": 11241,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Wooden shield",
+        "X": "3361",
+        "Y": "3154"
+    },
+    {
+        "itemName": "Wooden shield",
+        "itemPageId": 11241,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Wooden shield",
+        "X": "3204",
+        "Y": "3515"
+    },
+    {
+        "itemName": "Beer glass",
+        "itemPageId": 11283,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Beer glass",
+        "X": "3404",
+        "Y": "3165"
+    },
+    {
+        "itemName": "Mind rune",
+        "itemPageId": 11315,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Mind rune",
+        "X": "3206",
+        "Y": "3208"
+    },
+    {
+        "itemName": "Mind rune",
+        "itemPageId": 11315,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Mind rune",
+        "X": "3023",
+        "Y": "3640"
+    },
+    {
+        "itemName": "Mind rune",
+        "itemPageId": 11315,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Mind rune",
+        "X": "3224",
+        "Y": "9910"
+    },
+    {
+        "itemName": "Mind rune",
+        "itemPageId": 11315,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Mind rune",
+        "X": "3283",
+        "Y": "3728"
+    },
+    {
+        "itemName": "Pie dish",
+        "itemPageId": 11418,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Pie dish",
+        "X": "3142",
+        "Y": "3447"
+    },
+    {
+        "itemName": "Pie dish",
+        "itemPageId": 11418,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Pie dish",
+        "X": "3222",
+        "Y": "3494"
+    },
+    {
+        "itemName": "Pie dish",
+        "itemPageId": 11418,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Pie dish",
+        "X": "2993",
+        "Y": "9847"
+    },
+    {
+        "itemName": "Cooked chicken",
+        "itemPageId": 11564,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cooked chicken",
+        "X": "2971",
+        "Y": "3382"
+    },
+    {
+        "itemName": "Sapphire",
+        "itemPageId": 11600,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Sapphire",
+        "X": "3170",
+        "Y": "3885"
+    },
+    {
+        "itemName": "Cheese",
+        "itemPageId": 11606,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cheese",
+        "X": "3083",
+        "Y": "3260"
+    },
+    {
+        "itemName": "Cheese",
+        "itemPageId": 11606,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cheese",
+        "X": "3390",
+        "Y": "3268"
+    },
+    {
+        "itemName": "Cheese",
+        "itemPageId": 11606,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cheese",
+        "X": "3039",
+        "Y": "3707"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3244",
+        "Y": "3736"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3239",
+        "Y": "3609"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3108",
+        "Y": "3691"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "2979",
+        "Y": "3763"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3183",
+        "Y": "3725"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "2980",
+        "Y": "3692"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3374",
+        "Y": "3151"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "2925",
+        "Y": "3251"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "2829",
+        "Y": "9564"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3118",
+        "Y": "9864"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3091",
+        "Y": "9801"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3173",
+        "Y": "9903"
+    },
+    {
+        "itemName": "Bones",
+        "itemPageId": 11607,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bones",
+        "X": "3107",
+        "Y": "9517"
+    },
+    {
+        "itemName": "Plank",
+        "itemPageId": 11616,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Plank",
+        "X": "3165",
+        "Y": "3669"
+    },
+    {
+        "itemName": "Plank",
+        "itemPageId": 11616,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Plank",
+        "X": "2851",
+        "Y": "3235"
+    },
+    {
+        "itemName": "Plank",
+        "itemPageId": 11616,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Plank",
+        "X": "3283",
+        "Y": "3658"
+    },
+    {
+        "itemName": "Tiara mould",
+        "itemPageId": 11861,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tiara mould",
+        "X": "2935",
+        "Y": "3282"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "3023",
+        "Y": "3290"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "3408",
+        "Y": "3176"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "3121",
+        "Y": "3359"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "2371",
+        "Y": "3127"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "3307",
+        "Y": "3195"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "2428",
+        "Y": "3079"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "2958",
+        "Y": "3510"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "3225",
+        "Y": "3294"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "3216",
+        "Y": "9625"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "3221",
+        "Y": "3494"
+    },
+    {
+        "itemName": "Bucket",
+        "itemPageId": 11910,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket",
+        "X": "2041",
+        "Y": "8985"
+    },
+    {
+        "itemName": "Pot",
+        "itemPageId": 11912,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Pot",
+        "X": "3074",
+        "Y": "3431"
+    },
+    {
+        "itemName": "Pot",
+        "itemPageId": 11912,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Pot",
+        "X": "3232",
+        "Y": "3399"
+    },
+    {
+        "itemName": "Pot",
+        "itemPageId": 11912,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Pot",
+        "X": "3209",
+        "Y": "3214"
+    },
+    {
+        "itemName": "Pot",
+        "itemPageId": 11912,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Pot",
+        "X": "3148",
+        "Y": "3211"
+    },
+    {
+        "itemName": "Pot",
+        "itemPageId": 11912,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Pot",
+        "X": "3144",
+        "Y": "3449"
+    },
+    {
+        "itemName": "Water rune",
+        "itemPageId": 11938,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Water rune",
+        "X": "3298",
+        "Y": "3316"
+    },
+    {
+        "itemName": "Water rune",
+        "itemPageId": 11938,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Water rune",
+        "X": "3028",
+        "Y": "3637"
+    },
+    {
+        "itemName": "Water rune",
+        "itemPageId": 11938,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Water rune",
+        "X": "3336",
+        "Y": "3694"
+    },
+    {
+        "itemName": "Water rune",
+        "itemPageId": 11938,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Water rune",
+        "X": "2960",
+        "Y": "3899"
+    },
+    {
+        "itemName": "Raw shrimps",
+        "itemPageId": 12058,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Raw shrimps",
+        "X": "2033",
+        "Y": "8983"
+    },
+    {
+        "itemName": "Small fishing net",
+        "itemPageId": 12070,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Small fishing net",
+        "X": "3244",
+        "Y": "3157"
+    },
+    {
+        "itemName": "Small fishing net",
+        "itemPageId": 12070,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Small fishing net",
+        "X": "2037",
+        "Y": "8986"
+    },
+    {
+        "itemName": "Small fishing net",
+        "itemPageId": 12070,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Small fishing net",
+        "X": "2935",
+        "Y": "5779"
+    },
+    {
+        "itemName": "Small fishing net",
+        "itemPageId": 12070,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Small fishing net",
+        "X": "3000",
+        "Y": "3699"
+    },
+    {
+        "itemName": "Fire rune",
+        "itemPageId": 12178,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Fire rune",
+        "X": "3026",
+        "Y": "3637"
+    },
+    {
+        "itemName": "Fire rune",
+        "itemPageId": 12178,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Fire rune",
+        "X": "3304",
+        "Y": "3311"
+    },
+    {
+        "itemName": "Fire rune",
+        "itemPageId": 12178,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Fire rune",
+        "X": "2838",
+        "Y": "9559"
+    },
+    {
+        "itemName": "Chisel",
+        "itemPageId": 12204,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Chisel",
+        "X": "2935",
+        "Y": "3286"
+    },
+    {
+        "itemName": "Nature rune",
+        "itemPageId": 12222,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Nature rune",
+        "X": "3309",
+        "Y": "3856"
+    },
+    {
+        "itemName": "Chaos rune",
+        "itemPageId": 12232,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Chaos rune",
+        "X": "3144",
+        "Y": "3823"
+    },
+    {
+        "itemName": "Chaos rune",
+        "itemPageId": 12232,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Chaos rune",
+        "X": "3021",
+        "Y": "3640"
+    },
+    {
+        "itemName": "Raw tuna",
+        "itemPageId": 12341,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Raw tuna",
+        "X": "2037",
+        "Y": "8978"
+    },
+    {
+        "itemName": "Gold bar",
+        "itemPageId": 12380,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold bar",
+        "X": "3192",
+        "Y": "9822"
+    },
+    {
+        "itemName": "Gold bar",
+        "itemPageId": 12380,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold bar",
+        "X": "2057",
+        "Y": "8985"
+    },
+    {
+        "itemName": "Gold bar",
+        "itemPageId": 12380,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold bar",
+        "X": "1969",
+        "Y": "9082"
+    },
+    {
+        "itemName": "Gold ore",
+        "itemPageId": 12381,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold ore",
+        "X": "3195",
+        "Y": "9821"
+    },
+    {
+        "itemName": "Gold ore",
+        "itemPageId": 12381,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Gold ore",
+        "X": "3146",
+        "Y": "3734"
+    },
+    {
+        "itemName": "Brass key",
+        "itemPageId": 12526,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Brass key",
+        "X": "3131",
+        "Y": "9862"
+    },
+    {
+        "itemName": "Cooked meat",
+        "itemPageId": 12533,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cooked meat",
+        "X": "3078",
+        "Y": "3442"
+    },
+    {
+        "itemName": "Cooked meat",
+        "itemPageId": 12533,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cooked meat",
+        "X": "2558",
+        "Y": "2856"
+    },
+    {
+        "itemName": "Grapes",
+        "itemPageId": 12552,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Grapes",
+        "X": "3144",
+        "Y": "3450"
+    },
+    {
+        "itemName": "Grapes",
+        "itemPageId": 12552,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Grapes",
+        "X": "3237",
+        "Y": "9761"
+    },
+    {
+        "itemName": "Jug",
+        "itemPageId": 12555,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Jug",
+        "X": "2905",
+        "Y": "3146"
+    },
+    {
+        "itemName": "Jug",
+        "itemPageId": 12555,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Jug",
+        "X": "3211",
+        "Y": "3212"
+    },
+    {
+        "itemName": "Jug",
+        "itemPageId": 12555,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Jug",
+        "X": "2936",
+        "Y": "3292"
+    },
+    {
+        "itemName": "Jug",
+        "itemPageId": 12555,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Jug",
+        "X": "3272",
+        "Y": "3409"
+    },
+    {
+        "itemName": "Jug",
+        "itemPageId": 12555,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Jug",
+        "X": "3142",
+        "Y": "3447"
+    },
+    {
+        "itemName": "Jug",
+        "itemPageId": 12555,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Jug",
+        "X": "3211",
+        "Y": "9625"
+    },
+    {
+        "itemName": "Spade",
+        "itemPageId": 12563,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Spade",
+        "X": "3120",
+        "Y": "3359"
+    },
+    {
+        "itemName": "Spade",
+        "itemPageId": 12563,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Spade",
+        "X": "2981",
+        "Y": "3370"
+    },
+    {
+        "itemName": "Spade",
+        "itemPageId": 12563,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Spade",
+        "X": "3218",
+        "Y": "3412"
+    },
+    {
+        "itemName": "Spade",
+        "itemPageId": 12563,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Spade",
+        "X": "2031",
+        "Y": "8984"
+    },
+    {
+        "itemName": "Chocolate bar",
+        "itemPageId": 12620,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Chocolate bar",
+        "X": "3143",
+        "Y": "3453"
+    },
+    {
+        "itemName": "Bucket of water",
+        "itemPageId": 12676,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bucket of water",
+        "X": "3148",
+        "Y": "3642"
+    },
+    {
+        "itemName": "Jug of water",
+        "itemPageId": 12859,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Jug of water",
+        "X": "3302",
+        "Y": "3170"
+    },
+    {
+        "itemName": "White apron",
+        "itemPageId": 12872,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=White apron",
+        "X": "3016",
+        "Y": "3229"
+    },
+    {
+        "itemName": "White apron",
+        "itemPageId": 12872,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=White apron",
+        "X": "3009",
+        "Y": "3204"
+    },
+    {
+        "itemName": "Earth rune",
+        "itemPageId": 12881,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Earth rune",
+        "X": "3195",
+        "Y": "3515"
+    },
+    {
+        "itemName": "Earth rune",
+        "itemPageId": 12881,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Earth rune",
+        "X": "3032",
+        "Y": "3637"
+    },
+    {
+        "itemName": "Earth rune",
+        "itemPageId": 12881,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Earth rune",
+        "X": "3185",
+        "Y": "9888"
+    },
+    {
+        "itemName": "Cosmic rune",
+        "itemPageId": 12900,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cosmic rune",
+        "X": "2947",
+        "Y": "3898"
+    },
+    {
+        "itemName": "Body rune",
+        "itemPageId": 12969,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Body rune",
+        "X": "3194",
+        "Y": "3495"
+    },
+    {
+        "itemName": "Body rune",
+        "itemPageId": 12969,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Body rune",
+        "X": "3227",
+        "Y": "3574"
+    },
+    {
+        "itemName": "Body rune",
+        "itemPageId": 12969,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Body rune",
+        "X": "3021",
+        "Y": "3637"
+    },
+    {
+        "itemName": "Body rune",
+        "itemPageId": 12969,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Body rune",
+        "X": "3091",
+        "Y": "3865"
+    },
+    {
+        "itemName": "Body rune",
+        "itemPageId": 12969,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Body rune",
+        "X": "3226",
+        "Y": "9910"
+    },
+    {
+        "itemName": "Body rune",
+        "itemPageId": 12969,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Body rune",
+        "X": "3290",
+        "Y": "3191"
+    },
+    {
+        "itemName": "Staff",
+        "itemPageId": 13368,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Staff",
+        "X": "3371",
+        "Y": "3144"
+    },
+    {
+        "itemName": "Big bones",
+        "itemPageId": 13463,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Big bones",
+        "X": "3238",
+        "Y": "3739"
+    },
+    {
+        "itemName": "Beer",
+        "itemPageId": 13848,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Beer",
+        "X": "3078",
+        "Y": "3441"
+    },
+    {
+        "itemName": "Beer",
+        "itemPageId": 13848,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Beer",
+        "X": "3148",
+        "Y": "3645"
+    },
+    {
+        "itemName": "Onion",
+        "itemPageId": 13863,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Onion",
+        "X": "3211",
+        "Y": "3247"
+    },
+    {
+        "itemName": "Bowl",
+        "itemPageId": 13908,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bowl",
+        "X": "3208",
+        "Y": "3214"
+    },
+    {
+        "itemName": "Bowl",
+        "itemPageId": 13908,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Bowl",
+        "X": "3141",
+        "Y": "3450"
+    },
+    {
+        "itemName": "Leather gloves",
+        "itemPageId": 14000,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather gloves",
+        "X": "3097",
+        "Y": "3486"
+    },
+    {
+        "itemName": "Leather gloves",
+        "itemPageId": 14000,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather gloves",
+        "X": "3148",
+        "Y": "3177"
+    },
+    {
+        "itemName": "Leather gloves",
+        "itemPageId": 14000,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Leather gloves",
+        "X": "3242",
+        "Y": "3385"
+    },
+    {
+        "itemName": "Egg",
+        "itemPageId": 14108,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Egg",
+        "X": "3016",
+        "Y": "3295"
+    },
+    {
+        "itemName": "Egg",
+        "itemPageId": 14108,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Egg",
+        "X": "3177",
+        "Y": "3298"
+    },
+    {
+        "itemName": "Egg",
+        "itemPageId": 14108,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Egg",
+        "X": "3227",
+        "Y": "3300"
+    },
+    {
+        "itemName": "Egg",
+        "itemPageId": 14108,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Egg",
+        "X": "2852",
+        "Y": "3370"
+    },
+    {
+        "itemName": "Thread",
+        "itemPageId": 14809,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Thread",
+        "X": "3286",
+        "Y": "3491"
+    },
+    {
+        "itemName": "Monk's robe top",
+        "itemPageId": 14830,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Monk's robe top",
+        "X": "3059",
+        "Y": "3487"
+    },
+    {
+        "itemName": "Monk's robe",
+        "itemPageId": 14831,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Monk's robe",
+        "X": "3059",
+        "Y": "3488"
+    },
+    {
+        "itemName": "Cake tin",
+        "itemPageId": 15948,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cake tin",
+        "X": "2987",
+        "Y": "3686"
+    },
+    {
+        "itemName": "Cake tin",
+        "itemPageId": 15948,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cake tin",
+        "X": "3141",
+        "Y": "3452"
+    },
+    {
+        "itemName": "Shears",
+        "itemPageId": 16022,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Shears",
+        "X": "3172",
+        "Y": "3289"
+    },
+    {
+        "itemName": "Shears",
+        "itemPageId": 16022,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Shears",
+        "X": "3126",
+        "Y": "3356"
+    },
+    {
+        "itemName": "Shears",
+        "itemPageId": 16022,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Shears",
+        "X": "2930",
+        "Y": "3285"
+    },
+    {
+        "itemName": "Cabbage",
+        "itemPageId": 16803,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cabbage",
+        "X": "3285",
+        "Y": "3175"
+    },
+    {
+        "itemName": "Cabbage",
+        "itemPageId": 16803,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cabbage",
+        "X": "3217",
+        "Y": "9622"
+    },
+    {
+        "itemName": "Tomato",
+        "itemPageId": 17644,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tomato",
+        "X": "3085",
+        "Y": "3261"
+    },
+    {
+        "itemName": "Tomato",
+        "itemPageId": 17644,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tomato",
+        "X": "3039",
+        "Y": "3706"
+    },
+    {
+        "itemName": "Ring mould",
+        "itemPageId": 17658,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Ring mould",
+        "X": "2935",
+        "Y": "3283"
+    },
+    {
+        "itemName": "Fish food",
+        "itemPageId": 17676,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Fish food",
+        "X": "3109",
+        "Y": "3357"
+    },
+    {
+        "itemName": "Red spiders' eggs",
+        "itemPageId": 18129,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Red spiders' eggs",
+        "X": "2832",
+        "Y": "9586"
+    },
+    {
+        "itemName": "Red spiders' eggs",
+        "itemPageId": 18129,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Red spiders' eggs",
+        "X": "3178",
+        "Y": "9880"
+    },
+    {
+        "itemName": "Banana",
+        "itemPageId": 18351,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Banana",
+        "X": "2907",
+        "Y": "3146"
+    },
+    {
+        "itemName": "Banana",
+        "itemPageId": 18351,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Banana",
+        "X": "3009",
+        "Y": "3207"
+    },
+    {
+        "itemName": "Iron med helm",
+        "itemPageId": 18436,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Iron med helm",
+        "X": "3178",
+        "Y": "3684"
+    },
+    {
+        "itemName": "Cooking apple",
+        "itemPageId": 18454,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cooking apple",
+        "X": "3140",
+        "Y": "3447"
+    },
+    {
+        "itemName": "Cooking apple",
+        "itemPageId": 18454,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Cooking apple",
+        "X": "3141",
+        "Y": "3447"
+    },
+    {
+        "itemName": "Necklace mould",
+        "itemPageId": 18680,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Necklace mould",
+        "X": "2932",
+        "Y": "3287"
+    },
+    {
+        "itemName": "Holy mould",
+        "itemPageId": 18682,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Holy mould",
+        "X": "2931",
+        "Y": "3287"
+    },
+    {
+        "itemName": "Wine of zamorak",
+        "itemPageId": 20228,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Wine of zamorak",
+        "X": "2930",
+        "Y": "3515"
+    },
+    {
+        "itemName": "Wine of zamorak",
+        "itemPageId": 20228,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Wine of zamorak",
+        "X": "2950",
+        "Y": "3824"
+    },
+    {
+        "itemName": "Burnt bones",
+        "itemPageId": 26416,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Burnt bones",
+        "X": "3304",
+        "Y": "3889"
+    },
+    {
+        "itemName": "Tile",
+        "itemPageId": 26478,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tile",
+        "X": "3280",
+        "Y": "3657"
+    },
+    {
+        "itemName": "Tile",
+        "itemPageId": 26478,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tile",
+        "X": "3166",
+        "Y": "3674"
+    },
+    {
+        "itemName": "Tile",
+        "itemPageId": 26478,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Tile",
+        "X": "2978",
+        "Y": "3694"
+    },
+    {
+        "itemName": "Skull (item)",
+        "itemPageId": 28311,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Skull (item)",
+        "X": "2977",
+        "Y": "3530"
+    },
+    {
+        "itemName": "Skull (item)",
+        "itemPageId": 28311,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Skull (item)",
+        "X": "3236",
+        "Y": "3742"
+    },
+    {
+        "itemName": "Oil lamp",
+        "itemPageId": 28999,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Oil lamp",
+        "X": "2030",
+        "Y": "9005"
+    },
+    {
+        "itemName": "Oil can",
+        "itemPageId": 38119,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Oil can",
+        "X": "3092",
+        "Y": "9755"
+    },
+    {
+        "itemName": "Poison (item)",
+        "itemPageId": 43830,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Poison (item)",
+        "X": "3097",
+        "Y": "3366"
+    },
+    {
+        "itemName": "Rubber tube",
+        "itemPageId": 43836,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Rubber tube",
+        "X": "3111",
+        "Y": "3367"
+    },
+    {
+        "itemName": "Ahab's beer",
+        "itemPageId": 72882,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Ahab's beer",
+        "X": "3049",
+        "Y": "3257"
+    },
+    {
+        "itemName": "Burnt shrimp",
+        "itemPageId": 94071,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Burnt shrimp",
+        "X": "2034",
+        "Y": "8984"
+    },
+    {
+        "itemName": "Burnt fish (anchovies)",
+        "itemPageId": 94075,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=Burnt fish (anchovies)",
+        "X": "2477",
+        "Y": "2860"
+    },
+    {
+        "itemName": "White apron (Gerrant's Fishy Business)",
+        "itemPageId": 324501,
+        "itemPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name=White apron (Gerrant's Fishy Business)",
+        "X": "3016",
+        "Y": "3229"
+    }
+]

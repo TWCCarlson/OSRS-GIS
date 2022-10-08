@@ -1,0 +1,2558 @@
+[
+    {
+        "locName": "Abyss",
+        "locPageId": 13070,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=13070&name=Abyss",
+        "X": [
+            "3040"
+        ],
+        "Y": [
+            "4832"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Air Altar",
+        "locPageId": 12263,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12263&name=Air_Altar",
+        "X": [
+            "2843"
+        ],
+        "Y": [
+            "4833"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Al Kharid",
+        "locPageId": 12567,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12567&name=Al_Kharid",
+        "X": [
+            "3292"
+        ],
+        "Y": [
+            "3193"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ancient Cavern",
+        "locPageId": 13050,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=13050&name=Ancient_Cavern",
+        "X": [
+            "1796"
+        ],
+        "Y": [
+            "5375"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ape Atoll",
+        "locPageId": 9425,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9425&name=Ape_Atoll",
+        "X": [
+            "2750"
+        ],
+        "Y": [
+            "2750"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ape Atoll Dungeon",
+        "locPageId": 33011,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=33011&name=Ape_Atoll_Dungeon",
+        "X": [
+            "2763"
+        ],
+        "Y": [
+            "2703"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Arandar",
+        "locPageId": 9396,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9396&name=Arandar",
+        "X": [
+            "2342"
+        ],
+        "Y": [
+            "3290"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Arceuus",
+        "locPageId": 68449,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68449&name=Arceuus",
+        "X": [
+            "1700"
+        ],
+        "Y": [
+            "3800"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ardougne",
+        "locPageId": 6940,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6940&name=Ardougne",
+        "X": [
+            "2570"
+        ],
+        "Y": [
+            "3300"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Asgarnia",
+        "locPageId": 17099,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17099&name=Asgarnia",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Astral Altar",
+        "locPageId": 17809,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17809&name=Astral_Altar",
+        "X": [
+            "2157"
+        ],
+        "Y": [
+            "3863"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Bandit Camp (Kharidian Desert)",
+        "locPageId": 6936,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6936&name=Bandit_Camp_(Kharidian_Desert)",
+        "X": [
+            "3171"
+        ],
+        "Y": [
+            "2979"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Bandit Camp (Wilderness)",
+        "locPageId": 25534,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=25534&name=Bandit_Camp_(Wilderness)",
+        "X": [
+            "3037"
+        ],
+        "Y": [
+            "3685"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Bandit Camp Quarry",
+        "locPageId": 46286,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=46286&name=Bandit_Camp_Quarry",
+        "X": [
+            "3172"
+        ],
+        "Y": [
+            "2912"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Barbarian Outpost",
+        "locPageId": 13606,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=13606&name=Barbarian_Outpost",
+        "X": [
+            "2549"
+        ],
+        "Y": [
+            "3558"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Barbarian Village",
+        "locPageId": 9683,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9683&name=Barbarian_Village",
+        "X": [
+            "3078"
+        ],
+        "Y": [
+            "3426"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Barrows",
+        "locPageId": 10064,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=10064&name=Barrows",
+        "X": [
+            "3567"
+        ],
+        "Y": [
+            "3291"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Battlefront",
+        "locPageId": 202651,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=202651&name=Battlefront",
+        "X": [
+            "1368"
+        ],
+        "Y": [
+            "3716"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Baxtorian Falls",
+        "locPageId": 15430,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=15430&name=Baxtorian_Falls",
+        "X": [
+            "2513"
+        ],
+        "Y": [
+            "3483"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Bedabin Camp",
+        "locPageId": 6934,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6934&name=Bedabin_Camp",
+        "X": [
+            "3169"
+        ],
+        "Y": [
+            "3036"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Black Knights' Fortress (location)",
+        "locPageId": 47689,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=47689&name=Black_Knights'_Fortress_(location)",
+        "X": [
+            "3020"
+        ],
+        "Y": [
+            "3514"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Blast Furnace",
+        "locPageId": 12796,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12796&name=Blast_Furnace",
+        "X": [
+            "2930"
+        ],
+        "Y": [
+            "10190"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Blood Altar (Kourend)",
+        "locPageId": 350850,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=350850&name=Blood_Altar_(Kourend)",
+        "X": [
+            "1717"
+        ],
+        "Y": [
+            "3829"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Body Altar",
+        "locPageId": 17383,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17383&name=Body_Altar",
+        "X": [
+            "2522"
+        ],
+        "Y": [
+            "4839"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Bone Yard",
+        "locPageId": 15367,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=15367&name=Bone_Yard",
+        "X": [
+            "3236"
+        ],
+        "Y": [
+            "3746"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Brimhaven",
+        "locPageId": 9399,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9399&name=Brimhaven",
+        "X": [
+            "2760"
+        ],
+        "Y": [
+            "3184"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Brimhaven Agility Arena",
+        "locPageId": 2162,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=2162&name=Brimhaven_Agility_Arena",
+        "X": [
+            "2809"
+        ],
+        "Y": [
+            "3192"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Burgh de Rott",
+        "locPageId": 2390,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=2390&name=Burgh_de_Rott",
+        "X": [
+            "3502"
+        ],
+        "Y": [
+            "3210"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Burthorpe",
+        "locPageId": 9406,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9406&name=Burthorpe",
+        "X": [
+            "2881"
+        ],
+        "Y": [
+            "3539"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Burthorpe Games Room",
+        "locPageId": 2619,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=2619&name=Burthorpe_Games_Room",
+        "X": [
+            "2900"
+        ],
+        "Y": [
+            "3566"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Camelot",
+        "locPageId": 12324,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12324&name=Camelot",
+        "X": [
+            "2758"
+        ],
+        "Y": [
+            "3507"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Canifis",
+        "locPageId": 6916,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6916&name=Canifis",
+        "X": [
+            "3493"
+        ],
+        "Y": [
+            "3488"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Castle Wars",
+        "locPageId": 12361,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12361&name=Castle_Wars",
+        "X": [
+            "2407"
+        ],
+        "Y": [
+            "3105"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Catherby",
+        "locPageId": 7540,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=7540&name=Catherby",
+        "X": [
+            "2814"
+        ],
+        "Y": [
+            "3443"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Chambers of Xeric",
+        "locPageId": 82089,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=82089&name=Chambers_of_Xeric",
+        "X": [
+            "1245"
+        ],
+        "Y": [
+            "3557"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Champions' Guild",
+        "locPageId": 11881,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=11881&name=Champions'_Guild",
+        "X": [
+            "3191"
+        ],
+        "Y": [
+            "3357"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Chaos Altar",
+        "locPageId": 21960,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=21960&name=Chaos_Altar",
+        "X": [
+            "2270"
+        ],
+        "Y": [
+            "4841"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Chaos Temple (Asgarnia)",
+        "locPageId": 64984,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=64984&name=Chaos_Temple_(Asgarnia)",
+        "X": [
+            "2934"
+        ],
+        "Y": [
+            "3516"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Chaos Temple (Wilderness)",
+        "locPageId": 31266,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=31266&name=Chaos_Temple_(Wilderness)",
+        "X": [
+            "3240"
+        ],
+        "Y": [
+            "3608"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Chasm of Fire",
+        "locPageId": 98044,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=98044&name=Chasm_of_Fire",
+        "X": [
+            "1435"
+        ],
+        "Y": [
+            "3668"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Clan Wars",
+        "locPageId": 34989,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=34989&name=Clan_Wars",
+        "X": [
+            "3137"
+        ],
+        "Y": [
+            "3623"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Cooks' Guild",
+        "locPageId": 9737,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9737&name=Cooks'_Guild",
+        "X": [
+            "3143"
+        ],
+        "Y": [
+            "3448"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Corsair Cove",
+        "locPageId": 107250,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=107250&name=Corsair_Cove",
+        "X": [
+            "2573"
+        ],
+        "Y": [
+            "2856"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Corsair Cove Resource Area",
+        "locPageId": 107474,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=107474&name=Corsair_Cove_Resource_Area",
+        "X": [
+            "2477"
+        ],
+        "Y": [
+            "2892"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Cosmic Altar",
+        "locPageId": 16986,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=16986&name=Cosmic_Altar",
+        "X": [
+            "2141"
+        ],
+        "Y": [
+            "4832"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Crafting Guild",
+        "locPageId": 9708,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9708&name=Crafting_Guild",
+        "X": [
+            "2932"
+        ],
+        "Y": [
+            "3281"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Crandor",
+        "locPageId": 11980,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=11980&name=Crandor",
+        "X": [
+            "2836"
+        ],
+        "Y": [
+            "3271"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Dark Altar",
+        "locPageId": 68620,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68620&name=Dark_Altar",
+        "X": [
+            "1716"
+        ],
+        "Y": [
+            "3883"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Dark Warriors' Fortress",
+        "locPageId": 29787,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=29787&name=Dark_Warriors'_Fortress",
+        "X": [
+            "3029"
+        ],
+        "Y": [
+            "3630"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Dark Wizards' Tower",
+        "locPageId": 28191,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=28191&name=Dark_Wizards'_Tower",
+        "X": [
+            "2909"
+        ],
+        "Y": [
+            "3335"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Darkmeyer",
+        "locPageId": 96344,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=96344&name=Darkmeyer",
+        "X": [
+            "3597"
+        ],
+        "Y": [
+            "3360"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Death Altar",
+        "locPageId": 20082,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=20082&name=Death_Altar",
+        "X": [
+            "2204"
+        ],
+        "Y": [
+            "4835"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Death Plateau (location)",
+        "locPageId": 9434,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9434&name=Death_Plateau_(location)",
+        "X": [
+            "2868"
+        ],
+        "Y": [
+            "3586"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Demonic Ruins",
+        "locPageId": 22138,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=22138&name=Demonic_Ruins",
+        "X": [
+            "3289"
+        ],
+        "Y": [
+            "3885"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Dense essence mine",
+        "locPageId": 68652,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68652&name=Dense_essence_mine",
+        "X": [
+            "1764"
+        ],
+        "Y": [
+            "3853"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Desert Mining Camp",
+        "locPageId": 37030,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=37030&name=Desert_Mining_Camp",
+        "X": [
+            "3288"
+        ],
+        "Y": [
+            "3021"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Deserted Keep",
+        "locPageId": 29454,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=29454&name=Deserted_Keep",
+        "X": [
+            "3153"
+        ],
+        "Y": [
+            "3932"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Digsite",
+        "locPageId": 15930,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=15930&name=Digsite",
+        "X": [
+            "3354"
+        ],
+        "Y": [
+            "3420"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Dorgesh-Kaan",
+        "locPageId": 9436,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9436&name=Dorgesh-Kaan",
+        "X": [
+            "2723"
+        ],
+        "Y": [
+            "5314"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Doric's hut",
+        "locPageId": 44729,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=44729&name=Doric's_hut",
+        "X": [
+            "2952"
+        ],
+        "Y": [
+            "3451"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Draynor Manor",
+        "locPageId": 12338,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12338&name=Draynor_Manor",
+        "X": [
+            "3108"
+        ],
+        "Y": [
+            "3358"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Draynor Village",
+        "locPageId": 12569,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12569&name=Draynor_Village",
+        "X": [
+            "3103"
+        ],
+        "Y": [
+            "3263"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Eagles' Peak (mountain)",
+        "locPageId": 32710,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=32710&name=Eagles'_Peak_(mountain)",
+        "X": [
+            "2332"
+        ],
+        "Y": [
+            "3486"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Earth Altar",
+        "locPageId": 17897,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17897&name=Earth_Altar",
+        "X": [
+            "2657"
+        ],
+        "Y": [
+            "4840"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "East Ardougne",
+        "locPageId": 18831,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=18831&name=East_Ardougne",
+        "X": [
+            "2624"
+        ],
+        "Y": [
+            "3300"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ectofuntus",
+        "locPageId": 15253,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=15253&name=Ectofuntus",
+        "X": [
+            "3660"
+        ],
+        "Y": [
+            "3520"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Edgeville",
+        "locPageId": 12681,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12681&name=Edgeville",
+        "X": [
+            "3101"
+        ],
+        "Y": [
+            "3492"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Edgeville Monastery",
+        "locPageId": 28803,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=28803&name=Edgeville_Monastery",
+        "X": [
+            "3052"
+        ],
+        "Y": [
+            "3490"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Emir's Arena",
+        "locPageId": 350809,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=350809&name=Emir's_Arena",
+        "X": [
+            "3360"
+        ],
+        "Y": [
+            "3233"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Entrana",
+        "locPageId": 9698,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9698&name=Entrana",
+        "X": [
+            "2840"
+        ],
+        "Y": [
+            "3358"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Etceteria",
+        "locPageId": 9417,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9417&name=Etceteria",
+        "X": [
+            "2604"
+        ],
+        "Y": [
+            "3873"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Falador",
+        "locPageId": 11657,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=11657&name=Falador",
+        "X": [
+            "3000"
+        ],
+        "Y": [
+            "3360"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Falador Mole Lair",
+        "locPageId": 17452,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17452&name=Falador_Mole_Lair",
+        "X": [
+            "1760"
+        ],
+        "Y": [
+            "5191"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Falador Park",
+        "locPageId": 15620,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=15620&name=Falador_Park",
+        "X": [
+            "3003"
+        ],
+        "Y": [
+            "3380"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Falador farm",
+        "locPageId": 29491,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=29491&name=Falador_farm",
+        "X": [
+            "3043"
+        ],
+        "Y": [
+            "3294"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Farming Guild",
+        "locPageId": 199824,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=199824&name=Farming_Guild",
+        "X": [
+            "1249"
+        ],
+        "Y": [
+            "3737"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Feldip Hills",
+        "locPageId": 9402,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9402&name=Feldip_Hills",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Ferox Enclave",
+        "locPageId": 269560,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=269560&name=Ferox_Enclave",
+        "X": [
+            "3137"
+        ],
+        "Y": [
+            "3623"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Fire Altar",
+        "locPageId": 12801,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12801&name=Fire_Altar",
+        "X": [
+            "2584"
+        ],
+        "Y": [
+            "4837"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Fishing Guild",
+        "locPageId": 9536,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9536&name=Fishing_Guild",
+        "X": [
+            "2609"
+        ],
+        "Y": [
+            "3424"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Fossil Island",
+        "locPageId": 82028,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=82028&name=Fossil_Island",
+        "X": [
+            "3730"
+        ],
+        "Y": [
+            "3807"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Fountain of Rune",
+        "locPageId": 31326,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=31326&name=Fountain_of_Rune",
+        "X": [
+            "3374"
+        ],
+        "Y": [
+            "3893"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Fremennik Province",
+        "locPageId": 9410,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9410&name=Fremennik_Province",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Frozen Waste Plateau",
+        "locPageId": 21650,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=21650&name=Frozen_Waste_Plateau",
+        "X": [
+            "2964"
+        ],
+        "Y": [
+            "3903"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Gielinor",
+        "locPageId": 9684,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9684&name=Gielinor",
+        "X": [
+            "2900"
+        ],
+        "Y": [
+            "3300"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Gnome Stronghold Agility Course",
+        "locPageId": 15207,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=15207&name=Gnome_Stronghold_Agility_Course",
+        "X": [
+            "2480"
+        ],
+        "Y": [
+            "3428"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Goblin Village",
+        "locPageId": 14874,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=14874&name=Goblin_Village",
+        "X": [
+            "2958"
+        ],
+        "Y": [
+            "3504"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "God Wars Dungeon",
+        "locPageId": 21264,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=21264&name=God_Wars_Dungeon",
+        "X": [
+            "2918",
+            "2892"
+        ],
+        "Y": [
+            "3745",
+            "5300"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Grand Exchange",
+        "locPageId": 17287,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17287&name=Grand_Exchange",
+        "X": [
+            "3165"
+        ],
+        "Y": [
+            "3490"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Grand Tree",
+        "locPageId": 17297,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17297&name=Grand_Tree",
+        "X": [
+            "2466"
+        ],
+        "Y": [
+            "3492"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Graveyard of Shadows",
+        "locPageId": 28980,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=28980&name=Graveyard_of_Shadows",
+        "X": [
+            "3164"
+        ],
+        "Y": [
+            "3672"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Great Kourend",
+        "locPageId": 68399,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68399&name=Great_Kourend",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Gu'Tanoth",
+        "locPageId": 9403,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9403&name=Gu'Tanoth",
+        "X": [
+            "2524"
+        ],
+        "Y": [
+            "3035"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Hardwood Grove",
+        "locPageId": 39927,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=39927&name=Hardwood_Grove",
+        "X": [
+            "2824"
+        ],
+        "Y": [
+            "3083"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Harmony Island",
+        "locPageId": 9743,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9743&name=Harmony_Island",
+        "X": [
+            "3805"
+        ],
+        "Y": [
+            "2844"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Haunted Woods",
+        "locPageId": 6920,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6920&name=Haunted_Woods",
+        "X": [
+            "3584"
+        ],
+        "Y": [
+            "3492"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Hemenster",
+        "locPageId": 7807,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=7807&name=Hemenster",
+        "X": [
+            "2636"
+        ],
+        "Y": [
+            "3430"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Heroes' Guild",
+        "locPageId": 9566,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9566&name=Heroes'_Guild",
+        "X": [
+            "2893",
+            "2915"
+        ],
+        "Y": [
+            "3510",
+            "9901"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Hosidius",
+        "locPageId": 68471,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68471&name=Hosidius",
+        "X": [
+            "1762"
+        ],
+        "Y": [
+            "3598"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "House on the Hill",
+        "locPageId": 102871,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=102871&name=House_on_the_Hill",
+        "X": [
+            "3772"
+        ],
+        "Y": [
+            "3872"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ice Mountain",
+        "locPageId": 13371,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=13371&name=Ice_Mountain",
+        "X": [
+            "3010"
+        ],
+        "Y": [
+            "3486"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Iceberg",
+        "locPageId": 9423,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9423&name=Iceberg",
+        "X": [
+            "2652"
+        ],
+        "Y": [
+            "4029"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Iorwerth Camp",
+        "locPageId": 26275,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=26275&name=Iorwerth_Camp",
+        "X": [
+            "2198"
+        ],
+        "Y": [
+            "3253"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Isle of Souls",
+        "locPageId": 290955,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=290955&name=Isle_of_Souls",
+        "X": [
+            "2210"
+        ],
+        "Y": [
+            "2900"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Jatizso",
+        "locPageId": 9420,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9420&name=Jatizso",
+        "X": [
+            "2405"
+        ],
+        "Y": [
+            "3805"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Jiggig",
+        "locPageId": 9404,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9404&name=Jiggig",
+        "X": [
+            "2465"
+        ],
+        "Y": [
+            "3046"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Kalphite Cave",
+        "locPageId": 13789,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=13789&name=Kalphite_Cave",
+        "X": [
+            "3320"
+        ],
+        "Y": [
+            "3122"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Kandarin",
+        "locPageId": 17098,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17098&name=Kandarin",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Karamja",
+        "locPageId": 12434,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12434&name=Karamja",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Karamja Volcano",
+        "locPageId": 20636,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=20636&name=Karamja_Volcano",
+        "X": [
+            "2845"
+        ],
+        "Y": [
+            "3174"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Kebos Lowlands",
+        "locPageId": 114858,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=114858&name=Kebos_Lowlands",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Keldagrim",
+        "locPageId": 16964,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=16964&name=Keldagrim",
+        "X": [
+            "2879"
+        ],
+        "Y": [
+            "10176"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Kharazi Jungle",
+        "locPageId": 9400,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9400&name=Kharazi_Jungle",
+        "X": [
+            "2865"
+        ],
+        "Y": [
+            "2907"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Kharidian Desert",
+        "locPageId": 16171,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=16171&name=Kharidian_Desert",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Lava Dragon Isle",
+        "locPageId": 24651,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=24651&name=Lava_Dragon_Isle",
+        "X": [
+            "3204"
+        ],
+        "Y": [
+            "3828"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lava Maze",
+        "locPageId": 18647,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=18647&name=Lava_Maze",
+        "X": [
+            "3072"
+        ],
+        "Y": [
+            "3854"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lava Maze Dungeon",
+        "locPageId": 43447,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=43447&name=Lava_Maze_Dungeon",
+        "X": [
+            "3040"
+        ],
+        "Y": [
+            "10266"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Law Altar",
+        "locPageId": 21672,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=21672&name=Law_Altar",
+        "X": [
+            "2463"
+        ],
+        "Y": [
+            "4831"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Legends' Guild",
+        "locPageId": 14758,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=14758&name=Legends'_Guild",
+        "X": [
+            "2728"
+        ],
+        "Y": [
+            "3366"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lighthouse",
+        "locPageId": 17814,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17814&name=Lighthouse",
+        "X": [
+            "2509"
+        ],
+        "Y": [
+            "3640"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lithkren",
+        "locPageId": 108666,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=108666&name=Lithkren",
+        "X": [
+            "3566"
+        ],
+        "Y": [
+            "4003"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lithkren Vault",
+        "locPageId": 109676,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=109676&name=Lithkren_Vault",
+        "X": [
+            "1568"
+        ],
+        "Y": [
+            "5088"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lizardman Canyon",
+        "locPageId": 68988,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68988&name=Lizardman_Canyon",
+        "X": [
+            "1503"
+        ],
+        "Y": [
+            "3704"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lizardman Caves",
+        "locPageId": 101651,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=101651&name=Lizardman_Caves",
+        "X": [
+            "1310"
+        ],
+        "Y": [
+            "9960"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lizardman Settlement",
+        "locPageId": 82646,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=82646&name=Lizardman_Settlement",
+        "X": [
+            "1324"
+        ],
+        "Y": [
+            "3556"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lizardman Temple",
+        "locPageId": 202650,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=202650&name=Lizardman_Temple",
+        "X": [
+            "1312"
+        ],
+        "Y": [
+            "10079"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lletya",
+        "locPageId": 9393,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9393&name=Lletya",
+        "X": [
+            "2338"
+        ],
+        "Y": [
+            "3171"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lovakengj",
+        "locPageId": 68444,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68444&name=Lovakengj",
+        "X": [
+            "1505"
+        ],
+        "Y": [
+            "3801"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lumbridge",
+        "locPageId": 9837,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9837&name=Lumbridge",
+        "X": [
+            "3188"
+        ],
+        "Y": [
+            "3220"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lumbridge Swamp",
+        "locPageId": 9856,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9856&name=Lumbridge_Swamp",
+        "X": [
+            "3197"
+        ],
+        "Y": [
+            "3166"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Lunar Isle",
+        "locPageId": 9418,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9418&name=Lunar_Isle",
+        "X": [
+            "2117"
+        ],
+        "Y": [
+            "3903"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mage Arena",
+        "locPageId": 2370,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=2370&name=Mage_Arena",
+        "X": [
+            "3107"
+        ],
+        "Y": [
+            "3934"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mage Training Arena",
+        "locPageId": 13578,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=13578&name=Mage_Training_Arena",
+        "X": [
+            "3364"
+        ],
+        "Y": [
+            "3312"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Marim",
+        "locPageId": 9426,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9426&name=Marim",
+        "X": [
+            "2765"
+        ],
+        "Y": [
+            "2786"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Meiyerditch",
+        "locPageId": 6921,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6921&name=Meiyerditch",
+        "X": [
+            "3615"
+        ],
+        "Y": [
+            "3250"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Melzar's Maze",
+        "locPageId": 17978,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17978&name=Melzar's_Maze",
+        "X": [
+            "2932"
+        ],
+        "Y": [
+            "3247"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mind Altar",
+        "locPageId": 11437,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=11437&name=Mind_Altar",
+        "X": [
+            "2785"
+        ],
+        "Y": [
+            "4840"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mining Guild",
+        "locPageId": 14884,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=14884&name=Mining_Guild",
+        "X": [
+            "3032"
+        ],
+        "Y": [
+            "9728"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Miscellania",
+        "locPageId": 9416,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9416&name=Miscellania",
+        "X": [
+            "2560"
+        ],
+        "Y": [
+            "3870"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Misthalin",
+        "locPageId": 17100,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17100&name=Misthalin",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Molch",
+        "locPageId": 200589,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=200589&name=Molch",
+        "X": [
+            "1304"
+        ],
+        "Y": [
+            "3663"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mor Ul Rek",
+        "locPageId": 99604,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=99604&name=Mor_Ul_Rek",
+        "X": [
+            "2856"
+        ],
+        "Y": [
+            "3168"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mort'ton",
+        "locPageId": 6918,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6918&name=Mort'ton",
+        "X": [
+            "3487"
+        ],
+        "Y": [
+            "3288"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mort Myre Swamp",
+        "locPageId": 6893,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6893&name=Mort_Myre_Swamp",
+        "X": [
+            "3457"
+        ],
+        "Y": [
+            "3390"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Morytania",
+        "locPageId": 6894,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6894&name=Morytania",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Mos Le'Harmless",
+        "locPageId": 9704,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9704&name=Mos_Le'Harmless",
+        "X": [
+            "3735"
+        ],
+        "Y": [
+            "2999"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mos Le'Harmless Cave",
+        "locPageId": 18591,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=18591&name=Mos_Le'Harmless_Cave",
+        "X": [
+            "3748"
+        ],
+        "Y": [
+            "2973"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mount Karuulm",
+        "locPageId": 200620,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=200620&name=Mount_Karuulm",
+        "X": [
+            "1311"
+        ],
+        "Y": [
+            "3807"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mount Quidamortem",
+        "locPageId": 82476,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=82476&name=Mount_Quidamortem",
+        "X": [
+            "1246"
+        ],
+        "Y": [
+            "3550"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Mudskipper Point",
+        "locPageId": 18813,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=18813&name=Mudskipper_Point",
+        "X": [
+            "2999"
+        ],
+        "Y": [
+            "3122"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Museum Camp",
+        "locPageId": 102874,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=102874&name=Museum_Camp",
+        "X": [
+            "3731"
+        ],
+        "Y": [
+            "3816"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Myths' Guild",
+        "locPageId": 107263,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=107263&name=Myths'_Guild",
+        "X": [
+            "2457"
+        ],
+        "Y": [
+            "2846"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Nardah",
+        "locPageId": 6931,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6931&name=Nardah",
+        "X": [
+            "3427"
+        ],
+        "Y": [
+            "2911"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Nature Altar",
+        "locPageId": 16406,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=16406&name=Nature_Altar",
+        "X": [
+            "2399"
+        ],
+        "Y": [
+            "4840"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Nature Grotto",
+        "locPageId": 25467,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=25467&name=Nature_Grotto",
+        "X": [
+            "3441"
+        ],
+        "Y": [
+            "3337"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Neitiznot",
+        "locPageId": 9421,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9421&name=Neitiznot",
+        "X": [
+            "2331"
+        ],
+        "Y": [
+            "3802"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Otto's Grotto",
+        "locPageId": 20036,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=20036&name=Otto's_Grotto",
+        "X": [
+            "2502"
+        ],
+        "Y": [
+            "3489"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Paterdomus",
+        "locPageId": 2616,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=2616&name=Paterdomus",
+        "X": [
+            "3416"
+        ],
+        "Y": [
+            "3487"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Port Khazard",
+        "locPageId": 9389,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9389&name=Port_Khazard",
+        "X": [
+            "2653"
+        ],
+        "Y": [
+            "3159"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Port Phasmatys",
+        "locPageId": 6917,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6917&name=Port_Phasmatys",
+        "X": [
+            "3679"
+        ],
+        "Y": [
+            "3486"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Port Piscarilius",
+        "locPageId": 68758,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68758&name=Port_Piscarilius",
+        "X": [
+            "1803"
+        ],
+        "Y": [
+            "3752"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Port Sarim",
+        "locPageId": 9681,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9681&name=Port_Sarim",
+        "X": [
+            "3029"
+        ],
+        "Y": [
+            "3221"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Puro-Puro",
+        "locPageId": 9438,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9438&name=Puro-Puro",
+        "X": [
+            "2593"
+        ],
+        "Y": [
+            "4320"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Pyramid Plunder",
+        "locPageId": 8721,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=8721&name=Pyramid_Plunder",
+        "X": [
+            "3289"
+        ],
+        "Y": [
+            "2793"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ranging Guild",
+        "locPageId": 2372,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=2372&name=Ranging_Guild",
+        "X": [
+            "2669"
+        ],
+        "Y": [
+            "3427"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Rellekka",
+        "locPageId": 9412,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9412&name=Rellekka",
+        "X": [
+            "2658"
+        ],
+        "Y": [
+            "3677"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Resource Area",
+        "locPageId": 70872,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=70872&name=Resource_Area",
+        "X": [
+            "3185"
+        ],
+        "Y": [
+            "3933"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Rimmington",
+        "locPageId": 9692,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9692&name=Rimmington",
+        "X": [
+            "2956"
+        ],
+        "Y": [
+            "3232"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Rogues' Castle",
+        "locPageId": 29130,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=29130&name=Rogues'_Castle",
+        "X": [
+            "3286"
+        ],
+        "Y": [
+            "3933"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Rogues' Den",
+        "locPageId": 2165,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=2165&name=Rogues'_Den",
+        "X": [
+            "2909"
+        ],
+        "Y": [
+            "3537"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Scorpion Pit",
+        "locPageId": 9429,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9429&name=Scorpion_Pit",
+        "X": [
+            "3240"
+        ],
+        "Y": [
+            "3944"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Seers' Village",
+        "locPageId": 7541,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=7541&name=Seers'_Village",
+        "X": [
+            "2710"
+        ],
+        "Y": [
+            "3485"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Settlement",
+        "locPageId": 97830,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=97830&name=Settlement",
+        "X": [
+            "2784"
+        ],
+        "Y": [
+            "3680"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Shantay Pass",
+        "locPageId": 14169,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=14169&name=Shantay_Pass",
+        "X": [
+            "3304"
+        ],
+        "Y": [
+            "3123"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Shayzien",
+        "locPageId": 68760,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68760&name=Shayzien",
+        "X": [
+            "1517"
+        ],
+        "Y": [
+            "3592"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Shilo Village (location)",
+        "locPageId": 3239,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=3239&name=Shilo_Village_(location)",
+        "X": [
+            "2849"
+        ],
+        "Y": [
+            "2972"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Shilo Village mine",
+        "locPageId": 19279,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=19279&name=Shilo_Village_mine",
+        "X": [
+            "2823"
+        ],
+        "Y": [
+            "3001"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Silvarea",
+        "locPageId": 30518,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=30518&name=Silvarea",
+        "X": [
+            "3375"
+        ],
+        "Y": [
+            "3484"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Smoke Dungeon",
+        "locPageId": 18555,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=18555&name=Smoke_Dungeon",
+        "X": [
+            "3310"
+        ],
+        "Y": [
+            "2962"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Sophanem",
+        "locPageId": 6927,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6927&name=Sophanem",
+        "X": [
+            "3297"
+        ],
+        "Y": [
+            "2783"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Soul Altar",
+        "locPageId": 68653,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=68653&name=Soul_Altar",
+        "X": [
+            "1815"
+        ],
+        "Y": [
+            "3854"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Tai Bwo Wannai",
+        "locPageId": 2383,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=2383&name=Tai_Bwo_Wannai",
+        "X": [
+            "2795"
+        ],
+        "Y": [
+            "3065"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Taverley",
+        "locPageId": 9407,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9407&name=Taverley",
+        "X": [
+            "2910"
+        ],
+        "Y": [
+            "3451"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Theatre of Blood",
+        "locPageId": 112226,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=112226&name=Theatre_of_Blood",
+        "X": [
+            "3663"
+        ],
+        "Y": [
+            "3219"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Tirannwn",
+        "locPageId": 9392,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9392&name=Tirannwn",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Tithe Farm",
+        "locPageId": 69054,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=69054&name=Tithe_Farm",
+        "X": [
+            "1821"
+        ],
+        "Y": [
+            "3501"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Tree Gnome Stronghold",
+        "locPageId": 7812,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=7812&name=Tree_Gnome_Stronghold",
+        "X": [
+            "2440"
+        ],
+        "Y": [
+            "3460"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Troll Country",
+        "locPageId": 9430,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9430&name=Troll_Country",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Troll Stronghold (location)",
+        "locPageId": 9433,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9433&name=Troll_Stronghold_(location)",
+        "X": [
+            "2836"
+        ],
+        "Y": [
+            "3680"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Trollheim",
+        "locPageId": 9432,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9432&name=Trollheim",
+        "X": [
+            "2891"
+        ],
+        "Y": [
+            "3678"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Tyras Camp",
+        "locPageId": 9397,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9397&name=Tyras_Camp",
+        "X": [
+            "2185"
+        ],
+        "Y": [
+            "3145"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Underground Pass (dungeon)",
+        "locPageId": 16090,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=16090&name=Underground_Pass_(dungeon)",
+        "X": [
+            "2449"
+        ],
+        "Y": [
+            "3312"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ungael",
+        "locPageId": 108970,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=108970&name=Ungael",
+        "X": [
+            "2272"
+        ],
+        "Y": [
+            "4064"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Uzer",
+        "locPageId": 6937,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=6937&name=Uzer",
+        "X": [
+            "3480"
+        ],
+        "Y": [
+            "3095"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Varrock",
+        "locPageId": 11655,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=11655&name=Varrock",
+        "X": [
+            "3210"
+        ],
+        "Y": [
+            "3448"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Ver Sinhaza",
+        "locPageId": 116835,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=116835&name=Ver_Sinhaza",
+        "X": [
+            "3663"
+        ],
+        "Y": [
+            "3220"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Void Knights' Outpost",
+        "locPageId": 9682,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9682&name=Void_Knights'_Outpost",
+        "X": [
+            "2656"
+        ],
+        "Y": [
+            "2656"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Volcanic Mine",
+        "locPageId": 102663,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=102663&name=Volcanic_Mine",
+        "X": [
+            "3814"
+        ],
+        "Y": [
+            "3807"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Warriors' Guild",
+        "locPageId": 13104,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=13104&name=Warriors'_Guild",
+        "X": [
+            "2857"
+        ],
+        "Y": [
+            "3546"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Water Altar",
+        "locPageId": 17888,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17888&name=Water_Altar",
+        "X": [
+            "2715"
+        ],
+        "Y": [
+            "4835"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Waterbirth Island",
+        "locPageId": 9415,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9415&name=Waterbirth_Island",
+        "X": [
+            "2525"
+        ],
+        "Y": [
+            "3743"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Weiss",
+        "locPageId": 121142,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=121142&name=Weiss",
+        "X": [
+            "2870"
+        ],
+        "Y": [
+            "3940"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "West Ardougne",
+        "locPageId": 17866,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=17866&name=West_Ardougne",
+        "X": [
+            "2500"
+        ],
+        "Y": [
+            "3305"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "White Knights' Castle",
+        "locPageId": 13410,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=13410&name=White_Knights'_Castle",
+        "X": [
+            "2974"
+        ],
+        "Y": [
+            "3342"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "White Wolf Mountain",
+        "locPageId": 7815,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=7815&name=White_Wolf_Mountain",
+        "X": [
+            "2845"
+        ],
+        "Y": [
+            "3483"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Wilderness",
+        "locPageId": 12459,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12459&name=Wilderness",
+        "X": null,
+        "Y": null,
+        "type": "region"
+    },
+    {
+        "locName": "Wilderness Agility Course",
+        "locPageId": 9428,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9428&name=Wilderness_Agility_Course",
+        "X": [
+            "2998"
+        ],
+        "Y": [
+            "3950"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Wilderness God Wars Dungeon",
+        "locPageId": 31536,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=31536&name=Wilderness_God_Wars_Dungeon",
+        "X": [
+            "3017"
+        ],
+        "Y": [
+            "3739"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Wintertodt",
+        "locPageId": 69573,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=69573&name=Wintertodt",
+        "X": [
+            "1630"
+        ],
+        "Y": [
+            "3981"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Wintertodt Camp",
+        "locPageId": 79750,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=79750&name=Wintertodt_Camp",
+        "X": [
+            "1630"
+        ],
+        "Y": [
+            "3938"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Witchaven",
+        "locPageId": 9391,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9391&name=Witchaven",
+        "X": [
+            "2720"
+        ],
+        "Y": [
+            "3280"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Wizards' Guild",
+        "locPageId": 14765,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=14765&name=Wizards'_Guild",
+        "X": [
+            "2591"
+        ],
+        "Y": [
+            "3088"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Wizards' Tower",
+        "locPageId": 12229,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=12229&name=Wizards'_Tower",
+        "X": [
+            "3109"
+        ],
+        "Y": [
+            "3160"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Woodcutting Guild",
+        "locPageId": 74027,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=74027&name=Woodcutting_Guild",
+        "X": [
+            "1607"
+        ],
+        "Y": [
+            "3496"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Yanille",
+        "locPageId": 7809,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=7809&name=Yanille",
+        "X": [
+            "2577"
+        ],
+        "Y": [
+            "3090"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Zanaris",
+        "locPageId": 9435,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=9435&name=Zanaris",
+        "X": [
+            "2430"
+        ],
+        "Y": [
+            "4428"
+        ],
+        "type": "area"
+    },
+    {
+        "locName": "Zul-Andra",
+        "locPageId": 44153,
+        "locPageLink": "https://oldschool.runescape.wiki/w/Special:Lookup?id=44153&name=Zul-Andra",
+        "X": [
+            "2193"
+        ],
+        "Y": [
+            "3060"
+        ],
+        "type": "area"
+    }
+]

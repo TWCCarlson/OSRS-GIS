@@ -47,7 +47,7 @@ var tiles = L.tileLayer('https://raw.githubusercontent.com/TWCCarlson/OSRS-GIS-m
 }).addTo(map);
 
 drawDebugTileGrid(map);
-drawDebugROI(map, imageSE, imageNW);
+// drawDebugROI(map, imageSE, imageNW);
 displayDebugCoordinates(map)
 
 placeDebugMarker(map, [1885,9235], 'fally ref')
@@ -59,7 +59,6 @@ placeDebugMarker(map, imageNE, 'NE');
 placeDebugMarker(map, imageSW, 'SW');
 placeDebugMarker(map, imageSE, 'SE');
 
-// TODO: clean up the tile generator
 // TODO: labels
 // TODO: floating coordinate display
 // TODO: json ingest
