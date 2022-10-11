@@ -4919,7 +4919,7 @@
   		return this._container;
   	},
 
-  	// @method addTo(map: Map): this
+  	// @method `addTo`(map: Map): this
   	// Adds the control to the given map.
   	addTo: function (map) {
   		this.remove();

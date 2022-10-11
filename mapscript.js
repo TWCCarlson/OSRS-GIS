@@ -1,10 +1,10 @@
 import { xMax, yMax, boundPad } from './modules/constrefs.js';
 import { drawDebugTileGrid, drawDebugROI, placeDebugMarker, displayDebugCoordinates } from './modules/debug.js';
-import { yx, tileCenter, gameCoordinate } from './modules/coords.js';
-
+import { yx, tileCenter, gameCoordinate, leafCoordinate } from './modules/coords.js';
+import AreaList from './modules/areas.js';
+import { MapLabelControl } from './controls/mapLabelControl.js';
 // Fix marker rendering
 // L.Icon.Default.imagePath = './scripts/images/'
-
 // Image dimensions at maximum zoom (pixels/32) (x,y)
 const imageNW = [0, 0];
 const imageNE = [xMax, 0];
@@ -24,7 +24,9 @@ var map = L.map('map', {
     zoom: 4,
     minZoom: 1,
     maxZoom: 11,
+    renderer: L.canvas()
 })
+map.plane = 0
 
 // Set map boundaries and prevent user scrolling beyond them 
 var boundsPadded = new L.latLngBounds(
@@ -32,6 +34,9 @@ var boundsPadded = new L.latLngBounds(
     yx([imageSE[0]+boundPad,imageSE[1]+boundPad]),
 )
 map.setMaxBounds(boundsPadded)
+
+// Add controls to the map
+map.addControl(new MapLabelControl())
 
 // Set tile layer boundaries to avoid excessive 404's
 var bounds = new L.latLngBounds(
@@ -50,9 +55,9 @@ drawDebugTileGrid(map);
 // drawDebugROI(map, imageSE, imageNW);
 displayDebugCoordinates(map)
 
-placeDebugMarker(map, [1885,9235], 'fally ref')
-placeDebugMarker(map, [1939,9119], 'edge ref')
-placeDebugMarker(map, [1457,9519], 'yanille ref')
+placeDebugMarker(map, leafCoordinate([3037, 3372]), 'fally ref')
+placeDebugMarker(map, leafCoordinate([3091, 3488]), 'edge ref')
+placeDebugMarker(map, leafCoordinate([2609, 3088]), 'yanille ref')
 
 placeDebugMarker(map, imageNW, 'NW');
 placeDebugMarker(map, imageNE, 'NE');
@@ -60,5 +65,6 @@ placeDebugMarker(map, imageSW, 'SW');
 placeDebugMarker(map, imageSE, 'SE');
 
 // TODO: labels
+// TODO: hovered tile highlight
 // TODO: floating coordinate display
 // TODO: json ingest

@@ -10,6 +10,16 @@ var yx = function(x, y) {
     return (y,x);
 }
 
+// Wrapper converting LatLong(y,x)[leaflet coords] to LongLat(x,y)[brain coords] for ease
+var xy = function(y, x) {
+    // If the input is an array
+    if (L.Util.isArray(y)) {
+        return ([y[1], y[0]]);
+    }
+    // If the input is a tuple
+    return (x,y);
+}
+
 // Wrapper converting LongLat(x,y)[brain coords] to LatLong(y,x)[leaflet coords] for ease
 // Useful for markers
 var tileCenter = function(x,y) {
@@ -29,7 +39,17 @@ var gameCoordinate = function(x,y) {
         return ([x[0]+1152, yMax-x[1]+1215]);
     }
     // If the input is a tuple
-    return [x+1152, yMax-y+1215]
+    return ([x+1152, yMax-y+1215])
 }
 
-export { yx, tileCenter, gameCoordinate }
+var leafCoordinate = function(x,y) {
+    // If the input is an array
+    // OUTPUT IS NOT SWAPPED X<->Y, DO THIS WITHIN OTHER FUNCS TO MAKE DEBUG SIMPLER
+    if (L.Util.isArray(x)) {
+        return ([x[0]-1152, yMax-x[1]+1215])
+    }
+    // If the input is a tuple
+    return ([x-1152, yMax+y-1215])
+}
+
+export { yx, tileCenter, gameCoordinate, leafCoordinate }
