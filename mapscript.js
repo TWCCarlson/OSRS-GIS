@@ -58,8 +58,6 @@ displayDebugCoordinates(map)
 var oldMousePosition, tileHighlight
 highlightMouseTile(map, oldMousePosition, tileHighlight)
 
-oldMousePosition, tileHighlight = 
-
 placeDebugMarker(map, leafCoordinate([3037, 3372]), 'fally ref')
 placeDebugMarker(map, leafCoordinate([3091, 3488]), 'edge ref')
 placeDebugMarker(map, leafCoordinate([2609, 3088]), 'yanille ref')
