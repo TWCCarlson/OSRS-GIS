@@ -51,4 +51,28 @@ var leafCoordinate = function(x,y) {
     return ([x-1152, yMax+y-1215])
 }
 
-export { yx, xy, tileCenter, gameCoordinate, leafCoordinate }
+var highlightMouseTile = function(map, oldMousePosition, tileHighlight) {
+    map.on('mousemove', function(ev) {
+        var mousePosition = gameCoordinate(xy([Math.floor(ev.latlng.lat), Math.floor(ev.latlng.lng)]))
+        if (oldMousePosition != mousePosition) {
+            // Record the position
+            oldMousePosition = mousePosition
+            
+            // Remove the old rectangle
+            if (tileHighlight !== undefined) {
+                map.removeLayer(tileHighlight)
+            }
+            // console.log(mousePosition)
+            var tileBounds = [yx(leafCoordinate(mousePosition)), yx(leafCoordinate([mousePosition[0]+1, mousePosition[1]-1]))]
+            // console.log(tileBounds)
+            tileHighlight = new L.rectangle(tileBounds, {
+                color: "#2c8bd4",
+                fillColor: "#2c8bd4",
+                fillOpacity: 0.5,
+                weight: 2,
+            }).addTo(map)
+        }
+    })
+}
+
+export { yx, xy, tileCenter, gameCoordinate, leafCoordinate, highlightMouseTile }

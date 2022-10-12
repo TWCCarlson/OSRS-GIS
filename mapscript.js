@@ -1,6 +1,6 @@
 import { xMax, yMax, boundPad } from './modules/constrefs.js';
 import { drawDebugTileGrid, drawDebugROI, placeDebugMarker, displayDebugCoordinates } from './modules/debug.js';
-import { yx, xy, tileCenter, gameCoordinate, leafCoordinate } from './modules/coords.js';
+import { yx, xy, tileCenter, gameCoordinate, leafCoordinate, highlightMouseTile} from './modules/coords.js';
 import AreaList from './modules/areas.js';
 import { mapLabelControl } from './controls/mapLabelControl.js';
 // Fix marker rendering
@@ -54,28 +54,11 @@ drawDebugTileGrid(map);
 // drawDebugROI(map, imageSE, imageNW);
 displayDebugCoordinates(map)
 
+// Highlighting the tile under the cursor
 var oldMousePosition, tileHighlight
-map.on('mousemove', function(ev) {
-    var mousePosition = gameCoordinate(xy([Math.floor(ev.latlng.lat), Math.floor(ev.latlng.lng)]))
-    if (oldMousePosition != mousePosition) {
-        // Record the position
-        oldMousePosition = mousePosition
-        
-        // Remove the old rectangle
-        if (tileHighlight !== undefined) {
-            map.removeLayer(tileHighlight)
-        }
-        // console.log(mousePosition)
-        var tileBounds = [yx(leafCoordinate(mousePosition)), yx(leafCoordinate([mousePosition[0]+1, mousePosition[1]-1]))]
-        // console.log(tileBounds)
-        tileHighlight = new L.rectangle(tileBounds, {
-            color: "#2c8bd4",
-            fillColor: "#2c8bd4",
-            fillOpacity: 0.5,
-            weight: 2,
-        }).addTo(map)
-    }
-})
+highlightMouseTile(map, oldMousePosition, tileHighlight)
+
+oldMousePosition, tileHighlight = 
 
 placeDebugMarker(map, leafCoordinate([3037, 3372]), 'fally ref')
 placeDebugMarker(map, leafCoordinate([3091, 3488]), 'edge ref')
