@@ -62,6 +62,11 @@ export var mapLabelControl = L.Control.extend({
                 tooltip.addEventListener('mouseout', function () {
                     tooltip.getElement().style.opacity = setLabelOpacityFromZoom(map, tooltip.getElement().className, 'off')
                 });
+
+                tooltip.addEventListener('dblclick', function () {
+                    // console.log(tooltip.getElement().innerText)
+                    window.open("https://oldschool.runescape.wiki/w/"+tooltip.getElement().innerText)
+                });
             })
         })
 

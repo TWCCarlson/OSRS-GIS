@@ -1,6 +1,6 @@
 import { xMax, yMax, boundPad } from './modules/constrefs.js';
 import { drawDebugTileGrid, drawDebugROI, placeDebugMarker, displayDebugCoordinates } from './modules/debug.js';
-import { yx, tileCenter, gameCoordinate, leafCoordinate } from './modules/coords.js';
+import { yx, xy, tileCenter, gameCoordinate, leafCoordinate } from './modules/coords.js';
 import AreaList from './modules/areas.js';
 import { mapLabelControl } from './controls/mapLabelControl.js';
 // Fix marker rendering
@@ -35,9 +35,7 @@ var boundsPadded = new L.latLngBounds(
 map.setMaxBounds(boundsPadded)
 
 // Add controls to the map
-map.addControl(new mapLabelControl({
-    position: 'topleft'
-}))
+map.addControl(new mapLabelControl({position: 'topleft'}))
 
 // Set tile layer boundaries to avoid excessive 404's
 var bounds = new L.latLngBounds(
@@ -55,6 +53,29 @@ var tiles = L.tileLayer('https://raw.githubusercontent.com/TWCCarlson/OSRS-GIS-m
 drawDebugTileGrid(map);
 // drawDebugROI(map, imageSE, imageNW);
 displayDebugCoordinates(map)
+
+var oldMousePosition, tileHighlight
+map.on('mousemove', function(ev) {
+    var mousePosition = gameCoordinate(xy([Math.floor(ev.latlng.lat), Math.floor(ev.latlng.lng)]))
+    if (oldMousePosition != mousePosition) {
+        // Record the position
+        oldMousePosition = mousePosition
+        
+        // Remove the old rectangle
+        if (tileHighlight !== undefined) {
+            map.removeLayer(tileHighlight)
+        }
+        // console.log(mousePosition)
+        var tileBounds = [yx(leafCoordinate(mousePosition)), yx(leafCoordinate([mousePosition[0]+1, mousePosition[1]-1]))]
+        // console.log(tileBounds)
+        tileHighlight = new L.rectangle(tileBounds, {
+            color: "#2c8bd4",
+            fillColor: "#2c8bd4",
+            fillOpacity: 0.5,
+            weight: 2,
+        }).addTo(map)
+    }
+})
 
 placeDebugMarker(map, leafCoordinate([3037, 3372]), 'fally ref')
 placeDebugMarker(map, leafCoordinate([3091, 3488]), 'edge ref')

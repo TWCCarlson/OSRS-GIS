@@ -20,7 +20,6 @@ var xy = function(y, x) {
     return (x,y);
 }
 
-// Wrapper converting LongLat(x,y)[brain coords] to LatLong(y,x)[leaflet coords] for ease
 // Useful for markers
 var tileCenter = function(x,y) {
     // If the input is an array
@@ -52,4 +51,4 @@ var leafCoordinate = function(x,y) {
     return ([x-1152, yMax+y-1215])
 }
 
-export { yx, tileCenter, gameCoordinate, leafCoordinate }
+export { yx, xy, tileCenter, gameCoordinate, leafCoordinate }
