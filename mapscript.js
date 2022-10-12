@@ -2,7 +2,7 @@ import { xMax, yMax, boundPad } from './modules/constrefs.js';
 import { drawDebugTileGrid, drawDebugROI, placeDebugMarker, displayDebugCoordinates } from './modules/debug.js';
 import { yx, tileCenter, gameCoordinate, leafCoordinate } from './modules/coords.js';
 import AreaList from './modules/areas.js';
-import { MapLabelControl } from './controls/mapLabelControl.js';
+import { mapLabelControl } from './controls/mapLabelControl.js';
 // Fix marker rendering
 // L.Icon.Default.imagePath = './scripts/images/'
 // Image dimensions at maximum zoom (pixels/32) (x,y)
@@ -24,7 +24,6 @@ var map = L.map('map', {
     zoom: 4,
     minZoom: 1,
     maxZoom: 11,
-    renderer: L.canvas()
 })
 map.plane = 0
 
@@ -36,7 +35,9 @@ var boundsPadded = new L.latLngBounds(
 map.setMaxBounds(boundsPadded)
 
 // Add controls to the map
-map.addControl(new MapLabelControl())
+map.addControl(new mapLabelControl({
+    position: 'topleft'
+}))
 
 // Set tile layer boundaries to avoid excessive 404's
 var bounds = new L.latLngBounds(
@@ -64,7 +65,6 @@ placeDebugMarker(map, imageNE, 'NE');
 placeDebugMarker(map, imageSW, 'SW');
 placeDebugMarker(map, imageSE, 'SE');
 
-// TODO: labels
 // TODO: hovered tile highlight
 // TODO: floating coordinate display
 // TODO: json ingest

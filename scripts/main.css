@@ -3,5 +3,97 @@
     width: 100% !important;
     border: none !important;
     border-radius: 0 0 0 0;
-    background-color: #fff;
+    background-color: rgb(24, 26, 27);
+}
+
+/* .leaflet-zoom-box {
+	border: 2px dotted #38f;
+	background: rgba(24, 26, 27, 0.5);
+	}
+
+.leaflet-bar a.leaflet-disabled {
+    cursor: default;
+    background-color: #f4f4f4;
+    color: #bbb;
+    } */
+
+.leaflet-tooltip-region {
+    position: absolute;
+    padding: 6px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 3px;
+    color: #ffaa00;
+    white-space: normal;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /* pointer-events: all; */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0);
+    text-shadow: 2px 2px rgb(37, 37, 37);
+    width: 20ch;
+    white-space: normal;
+    text-align: center;
+    opacity: 1; /* defaulty visible  */
+    font-size: 12px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    z-index: 1000;
+    /* --className: ''; */
+}
+
+.leaflet-tooltip-area {
+    position: absolute;
+    padding: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgba(24, 26, 27, 0.658);
+    border: 1px solid rgb(163, 163, 163);
+    border-radius: 3px;
+    color: rgb(216, 216, 216);
+    /* white-space: nowrap; */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /* pointer-events: all; */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0);
+    text-shadow: 2px 2px rgb(37, 37, 37);
+    max-width: 30ch;
+    white-space: normal;
+    width: max-content;
+    text-align: center;
+    opacity: 0; /* defaulty invisible  */
+    font-size: 11px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    z-index: 999;
+    /* --className: ''; */
+}
+
+.leaflet-tooltip-poi {
+    position: absolute;
+    padding: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgba(24, 26, 27, 0.658);
+    border: 1px solid rgb(163, 163, 163);
+    border-radius: 3px;
+    color: rgb(255, 255, 255);
+    /* white-space: nowrap; */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /* pointer-events: all; */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0);
+    text-shadow: 2px 2px rgb(37, 37, 37);
+    max-width: 30ch;
+    width: max-content;
+    white-space: normal;
+    text-align: center;
+    opacity: 0; /* defaulty invisible  */
+    font-size: 11px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    z-index: 998;
+    /* --className: ''; */
 }
