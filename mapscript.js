@@ -3,6 +3,7 @@ import { drawDebugTileGrid, drawDebugROI, placeDebugMarker, displayDebugCoordina
 import { yx, xy, tileCenter, gameCoordinate, leafCoordinate, highlightMouseTile} from './modules/coords.js';
 import AreaList from './modules/areas.js';
 import { mapLabelControl } from './controls/mapLabelControl.js';
+import { locationSearch } from './controls/locationSearch.js';
 // Fix marker rendering
 // L.Icon.Default.imagePath = './scripts/images/'
 // Image dimensions at maximum zoom (pixels/32) (x,y)
@@ -36,6 +37,7 @@ map.setMaxBounds(boundsPadded)
 
 // Add controls to the map
 map.addControl(new mapLabelControl({position: 'topleft'}))
+map.addControl(new locationSearch({position: 'topleft'}))
 
 // Set tile layer boundaries to avoid excessive 404's
 var bounds = new L.latLngBounds(

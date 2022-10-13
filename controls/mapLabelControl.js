@@ -8,8 +8,6 @@ export var mapLabelControl = L.Control.extend({
     onAdd: function(map) {
         // Create a layer for the labels to exist on
         var labelPane = map.createPane('labelPane')
-        // Adjust z-index (default is map-level)
-        labelPane.style.zIndex = 1000
         // Grab the list of locations
         // AreaList.js has export new AreaList, so no need to create a new instance
         var tooltipList = []
@@ -181,7 +179,7 @@ export var mapLabelControl = L.Control.extend({
         container.style.height = 'auto';
 
         // Creates the button itself (leaflet-control-custom links to main.css)
-        var labelsButton = L.DomUtil.create('a', 'leaflet-bar leaflet-control leaflet-control-custom', container);
+        var labelsButton = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom', container);
         labelsButton.id = 'toggle-map-labels';
         labelsButton.innerHTML = '<b>Toggle Labels</b>';
 
