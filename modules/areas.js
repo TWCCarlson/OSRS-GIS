@@ -17,10 +17,12 @@ class Areas {
 
         // Otherwise, build it from the .json
         // I think we use AJAX because this data changes? not sure
+        // Make sure this is done synchronously otherwise a race condition is introduced
         $.ajax({
             url: "lists/osrs-location-list.json",
             dataType: "json",
             context: this,
+            async: false,
             success: function(data) {
                 var locations = data;
                 // Append the data 
@@ -33,8 +35,6 @@ class Areas {
                         "plane": Number(locations[i].Z)
                     })
                 }
-                
-                // console.log(this.locations[0].name)
                 callback(this.locations)
             }
         })

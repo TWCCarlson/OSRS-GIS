@@ -46,7 +46,7 @@ export var mapLabelControl = L.Control.extend({
                     permanent: true,
                     className: toolTipClass,
                     interactive: true
-                }).addTo(map)
+                }).addTo(map);
 
                 tooltipList.push(tooltip)
             }

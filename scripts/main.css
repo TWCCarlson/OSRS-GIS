@@ -101,3 +101,25 @@
     z-index: 998;
     /* --className: ''; */
 }
+
+/* Custom CSS for custom jquery autocomplete */
+.ui-searchautocomplete {
+    background-color: rgba(37, 37, 37, 0.85);
+    font-family: Verdana;
+    color:rgb(255, 255, 255);
+    position: absolute;
+	top: 0;
+	left: 0;
+	cursor: default;
+    font-size: 12px;
+}
+
+/* Custom CSS for custom jquery autocomplete suggestion hover */
+.ui-menu .ui-menu-item-wrapper {
+	padding: 0px 0.1em 0px 0.3em;
+}
+
+/* JQuery widget ui z-index */
+.ui-front {
+    z-index: 10000
+}

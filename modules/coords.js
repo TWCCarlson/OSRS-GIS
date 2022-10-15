@@ -48,7 +48,7 @@ var leafCoordinate = function(x,y) {
         return ([x[0]-1152, yMax-x[1]+1215])
     }
     // If the input is a tuple
-    return ([x-1152, yMax+y-1215])
+    return ([x-1152, yMax-y+1215])
 }
 
 var highlightMouseTile = function(map, oldMousePosition, tileHighlight) {

@@ -52,9 +52,9 @@ var tiles = L.tileLayer('https://raw.githubusercontent.com/TWCCarlson/OSRS-GIS-m
     maxZoom: 11,
 }).addTo(map);
 
-drawDebugTileGrid(map);
+// drawDebugTileGrid(map);
 // drawDebugROI(map, imageSE, imageNW);
-displayDebugCoordinates(map)
+// displayDebugCoordinates(map)
 
 // Highlighting the tile under the cursor
 var oldMousePosition, tileHighlight

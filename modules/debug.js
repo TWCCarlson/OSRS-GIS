@@ -37,6 +37,8 @@ function placeDebugMarker(map, point, string) {
 
 // Displays Pixel coordinates and latlng (in CRS.Simple latlng === game tile coordinates)
 function displayDebugCoordinates(map) {
+    // Make space for the coordinates
+    document.getElementById("map").style.height = "98%"
     map.on('mousemove', function(event) {
         var coords = event.latlng;
         document.getElementById('coordinates').innerHTML = 'Px: ' + map.project(coords) + ' x = ' + Math.floor(coords.lng) + ', y = ' + Math.floor(coords.lat) 
