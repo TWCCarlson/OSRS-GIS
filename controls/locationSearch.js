@@ -13,14 +13,14 @@ export var locationSearch = L.Control.extend({
         // Create HTML container for the searchbar
         var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
         container.style.background = 'none';
-        container.style.width = '100px';
+        container.style.width = '150px';
         container.style.height = 'auto';
 
         // Create the search bar
         var locationInput = L.DomUtil.create('input', 'leaflet-bar leaflet-control leaflet-control-custom', container);
         locationInput.id = 'location-lookup';
         locationInput.type = 'text';
-        locationInput.placeholder = "Go to location";
+        locationInput.placeholder = "Go to location...";
 
         // Populate the list of searchable things
         SearchAreaList.fetchLocations(function (locations) {
@@ -48,7 +48,7 @@ export var locationSearch = L.Control.extend({
             minLength: 2,
             source: self.locations,
             select: function(event, ui) {
-                let targetPoint = yx([ui.item.value[0], ui.item.value[1]])
+                let targetPoint = yx(leafCoordinate([ui.item.value[0], ui.item.value[1]]))
                 // Shift map focus and zoom to something usable
                 map.flyTo(targetPoint)
                 if (map.getZoom() < 7) {

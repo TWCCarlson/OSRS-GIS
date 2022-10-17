@@ -93,22 +93,25 @@ for n in range(len(DATA['query']['pages']['276731']['transcludedin'])-1):
             # Check the the item spawns in F2P
             regex_validF2PItem = r"(?<=title=\")(Free-to-play)(?=\")"
             valid = re.findall(regex_validF2PItem, row)
-            
+
             if len(valid) > 0:
                 # Parse the data to locate the spawn location
                 regex_lat = r"(?<=data-lat=\")(.+?)(?=\" )"
                 matches_lat = re.findall(regex_lat, row, re.MULTILINE)
                 regex_lon = r"(?<=data-lon=\")(.+?)(?=\" )"
                 matches_lon = re.findall(regex_lon, row, re.MULTILINE)
+                regex_plane = r"(?<=data-plane=\")(.+?)(?=\" )"
+                matches_plane = re.findall(regex_plane, row, re.MULTILINE)
 
                 for i in range(len(valid)):
-                    print(f"Item '{itemName}' spawns at ({matches_lon[i]},{matches_lat[i]})")
+                    print(f"Item '{itemName}' spawns at ({matches_lon[i]},{matches_lat[i]},{matches_plane[i]})")
                     itemInfo = {
                         'itemName': itemName,
                         'itemPageId': itemPageId,
                         'itemPageLink': f"https://oldschool.runescape.wiki/w/Special:Lookup?type=item&name={itemName}",
                         'X': matches_lon[i],
-                        'Y': matches_lat[i]
+                        'Y': matches_lat[i],
+                        'Z': matches_plane[i],
                     }
                     item_list.append(itemInfo)
 
@@ -116,5 +119,5 @@ for n in range(len(DATA['query']['pages']['276731']['transcludedin'])-1):
 # pp.pprint(item_list)
 
 item_json = json.dumps(item_list, indent=4)
-with open("f2p-item-list.json", "w+") as outfile:
+with open("./lists/f2p-item-list.json", "w+") as outfile:
     outfile.write(item_json)

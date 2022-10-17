@@ -25,7 +25,8 @@ function drawDebugTileGrid(map) {
 }
 
 function drawDebugROI(map, cornerA, cornerB) {
-    L.rectangle([yx(cornerA), yx(cornerB)], {color: "#ff7800", weight: 1}).addTo(map);
+    let rect = L.rectangle([yx(cornerA), yx(cornerB)], {color: "#ff7800", weight: 1}).bindPopup('test').addTo(map);
+    // rect.on('click', debug);
     return map
 }
 
@@ -45,6 +46,10 @@ function displayDebugCoordinates(map) {
             + ' // Game Coordinates:' + gameCoordinate([Math.floor(coords.lng), Math.floor(coords.lat)]);
     });
     return map
+}
+
+var debug = function(e) {
+    console.log("test")
 }
 
 export { drawDebugTileGrid, drawDebugROI, placeDebugMarker, displayDebugCoordinates }

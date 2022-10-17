@@ -4,6 +4,7 @@ import { yx, xy, tileCenter, gameCoordinate, leafCoordinate, highlightMouseTile}
 import AreaList from './modules/areas.js';
 import { mapLabelControl } from './controls/mapLabelControl.js';
 import { locationSearch } from './controls/locationSearch.js';
+import { f2pItemMarkers } from './modules/itemLabelMarkers.js';
 // Fix marker rendering
 // L.Icon.Default.imagePath = './scripts/images/'
 // Image dimensions at maximum zoom (pixels/32) (x,y)
@@ -39,6 +40,16 @@ map.setMaxBounds(boundsPadded)
 map.addControl(new mapLabelControl({position: 'topleft'}))
 map.addControl(new locationSearch({position: 'topleft'}))
 
+// Create items layer
+var f2pItemLabelsLayer
+f2pItemLabelsLayer = f2pItemMarkers(map)
+// Layer control
+var baseMaps = {}
+var overlayMaps = {
+    "f2p-items": f2pItemLabelsLayer
+}
+var layerControl = L.control.layers(baseMaps, overlayMaps).addTo(map)
+
 // Set tile layer boundaries to avoid excessive 404's
 var bounds = new L.latLngBounds(
     yx([imageNW[0],imageNW[1]]), 
@@ -54,21 +65,21 @@ var tiles = L.tileLayer('https://raw.githubusercontent.com/TWCCarlson/OSRS-GIS-m
 
 // drawDebugTileGrid(map);
 // drawDebugROI(map, imageSE, imageNW);
-// displayDebugCoordinates(map)
+displayDebugCoordinates(map)
 
 // Highlighting the tile under the cursor
 var oldMousePosition, tileHighlight
 highlightMouseTile(map, oldMousePosition, tileHighlight)
 
-placeDebugMarker(map, leafCoordinate([3037, 3372]), 'fally ref')
-placeDebugMarker(map, leafCoordinate([3091, 3488]), 'edge ref')
-placeDebugMarker(map, leafCoordinate([2609, 3088]), 'yanille ref')
+// placeDebugMarker(map, leafCoordinate([3037, 3372]), 'fally ref')
+// placeDebugMarker(map, leafCoordinate([3091, 3488]), 'edge ref')
+// placeDebugMarker(map, leafCoordinate([2609, 3088]), 'yanille ref')
 
-placeDebugMarker(map, imageNW, 'NW');
-placeDebugMarker(map, imageNE, 'NE');
-placeDebugMarker(map, imageSW, 'SW');
-placeDebugMarker(map, imageSE, 'SE');
+// placeDebugMarker(map, imageNW, 'NW');
+// placeDebugMarker(map, imageNE, 'NE');
+// placeDebugMarker(map, imageSW, 'SW');
+// placeDebugMarker(map, imageSE, 'SE');
 
-// TODO: hovered tile highlight
 // TODO: floating coordinate display
+// TODO: multiplane map overlaying
 // TODO: json ingest

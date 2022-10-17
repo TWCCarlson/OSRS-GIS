@@ -38,7 +38,7 @@ export var mapLabelControl = L.Control.extend({
                 }
 
                 // Generate markers for each according to the style
-                var tooltip = L.tooltip(yx(locations[i].pos), {
+                var tooltip = L.tooltip(yx(leafCoordinate(locations[i].pos)), {
                     content: '<b>'+locations[i]['name']+'</b>',
                     pane: 'labelPane',
                     direction: 'center',
@@ -177,11 +177,13 @@ export var mapLabelControl = L.Control.extend({
         container.style.background = 'none';
         container.style.width = '100px';
         container.style.height = 'auto';
+        container.style.textAlign = 'center'
 
         // Creates the button itself (leaflet-control-custom links to main.css)
         var labelsButton = L.DomUtil.create('div', 'leaflet-bar leaflet-control leaflet-control-custom', container);
         labelsButton.id = 'toggle-map-labels';
         labelsButton.innerHTML = '<b>Toggle Labels</b>';
+        
 
         // Assigns DOM event listener for clicks on the button
         L.DomEvent.on(labelsButton, 'click', this._toggleMapLabels, this);

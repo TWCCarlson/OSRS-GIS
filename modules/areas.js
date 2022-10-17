@@ -29,7 +29,7 @@ class Areas {
                 for (var i in locations) {
                     this.locations.push({
                         "name": locations[i].locName,
-                        "pos": leafCoordinate([locations[i].X, locations[i].Y]),
+                        "pos": [locations[i].X, locations[i].Y],
                         "type": locations[i].type,
                         "wikilink": locations[i].locPageLink,
                         "plane": Number(locations[i].Z)
